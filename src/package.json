@@ -1,0 +1,26 @@
+{
+  "name": "foss-log",
+  "version": "0.0.1",
+  "description": "Loogging facility for Foss@BPHC",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohitt Vashishtha",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.2",
+    "morgan": "^1.7.0",
+    "static-favicon": "^2.0.0-alpha"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-js-beautify": "^0.1.4",
+    "jslint": "^0.10.3"
+  }
+}
