@@ -123,7 +123,3 @@ This Article defines the original state of the club, before the first general in
 1. Srimantha Barua
 2. Srijan Agarwal
 3. Naveen N Jafer
-
-
-
-

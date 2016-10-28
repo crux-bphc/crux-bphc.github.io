@@ -18,28 +18,20 @@ grunt.initConfig({
       "jslint_happy": false,
     },
     files: ['maker/**/*.js', 'Gruntfile.js']
-  }
+  },
+  site: {
+    site: {
+      options: {
+        site: {
+          title: 'Example',
+        },
+        templates: './site/templates'
+      },
+      src: './site/content',
+      dest: './dest'
+    }
+  },
 });
 
-//grunt.registerTask('world', 'world task description', function() {
-//    console.log('hello world');
-//});
-
-grunt.registerTask('doc', 'generates static markdown documentation', function () {
-  require('mdoc').run({
-    // configuration options (specified below)
-    inputDir: 'docs',
-    outputDir: 'dist'
-  });
-});
-
-//grunt.registerTask('hello', 'say hello', function (name) {
-//    if (!name || !name.length)
-//        grunt.warn('you need to provide a name.');
-//
-//    console.log('hello ' + name);
-//});
-
-//grunt.registerTask('default', ['jshint', 'mochaTest', 'js_beautify:files:all']);
 grunt.registerTask('default', ['jshint', 'js_beautify:files:all']);
-grunt.registerTask('test', ['mochaTest']);
+grunt.registerTask('make', ['site']);
