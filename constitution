@@ -1,14 +1,11 @@
 <html>
 	<head>
-		<title>
-Constitution - foss@bphc</title>
-		<link rel="stylesheet" type="text/css" href="/css/github-markdown.css">
-		<link rel="stylesheet" type="text/css" href="/css/index.css">
+		<title>FOSS@BPHC</title>
+		<link rel="stylesheet" type="text/css" href="../css/github-markdown.css">
+		<link rel="stylesheet" type="text/css" href="../css/index.css">
 	</head>
 	<body>
-		<section role="main">
-			<article class="hentry">
-				<div class="markdown-body entry-content">
+		<article class="markdown-body">
 <h1 id="constitution">Constitution</h1>
 <h2 id="preamble">Preamble</h2>
 <p>It is important to recognize the danger that bureaucracy can get in the way of doing cool things. This constitution is an attempt to provide the means to ensure that the club can run smoothly and it should be invoked in compliance with the spirit of the club.</p>
@@ -88,8 +85,6 @@ Constitution - foss@bphc</title>
 <li>Naveen N Jafer</li>
 </ol>
 
-				</div>
-			</article>
-		</section>
+		</article>
 	</body>
 </html>
