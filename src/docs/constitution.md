@@ -14,7 +14,9 @@ The guild name has not been finalised yet, so, as a placeholder, the name *foss@
 
 The purpose of foss@bphc is to write and advocate free software, and to create a community of excellent programmers.
 
-The guild shall take no 'official' stance on political debates among the open source community, and shall not place any constraints on the type of project and/or tools used to accomplish the tasks by the members, as long as the project worked on by members of the guild, under the flag of the guild, and distributed by the guild should meet some acceptable definition of open source software.
+The guild shall take no 'official' stance on any political debates circulated among the open source community, and shall not place any constraints on the type of project and/or tools used to accomplish the tasks by the members. 
+
+This freedom is applicable as long as the project worked on by members of the guild, under the flag of the guild, and distributed by the guild should meet some acceptable definition of open source software.
 
 ## Article 2: Membership
 
