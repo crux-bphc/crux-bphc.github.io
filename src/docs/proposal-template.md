@@ -34,6 +34,6 @@ This section can be used for any details you feel don't fit in the previous sect
 
 ## Examples
 
-* https://season.kde.org/?q=view_projects&prg=41&p=666
-* https://season.kde.org/?q=view_projects&prg=41&p=611
+* https://paste.kde.org/phqgl9qmb/sbn7us/raw
+* https://paste.kde.org/p74lcyun6/karkh6/raw
 * https://www.dropbox.com/s/06e2z0s4bldzlhy/gsoc-proposal.pdf?dl=0
