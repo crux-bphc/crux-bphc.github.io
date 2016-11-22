@@ -47,8 +47,9 @@ var loadtemplate = function () {
         }
         var markdown = marked(contents);
         var localtemplate = template;
+        var title = toTitleCase(parsePath(localfile).name);
         localtemplate = localtemplate.replace('<%=content%>', markdown);
-        localtemplate = localtemplate.replace('<%=title%>', toTitleCase(parsePath(localfile).name));
+        localtemplate = localtemplate.replace('<%=title%>', title);
         var mkdirp = require('mkdirp');
         mkdirp(parsePath(htmlfile).dir, function (err) {
           if (err) {
@@ -58,19 +59,62 @@ var loadtemplate = function () {
             if (err) {
               return console.log(err);
             }
-            console.log("Maker: File", url+srcext, "Processed.");
+            console.log("Maker: File", url + srcext, "Processed.");
           });
         });
       });
     });
+
   });
 };
 
+var makelinks =  function(){
+  fs.readFile('./maker/template.html', 'utf8', function (err, template) {
+    var filelist = [];
+    options.src.forEach(function (url, index) {
+      var mdfile = srcdir + url + srcext;
+      //console.log("Markdown File:", mdfile);
+      //console.log("File Directory:", parsePath(url).dir);
+      var htmlfile = parsePath(url).path.replace("docs/", "");
+      htmlfile = htmlfile.replace("docs", "");
+      htmlfile = htmlfile.replace('.md', '');
+      htmlfile = outdir + htmlfile + ".html";
+      var title = toTitleCase(parsePath(htmlfile).name);
+      var listentry = {};
+      listentry.title = title;
+      listentry.link = htmlfile;
+      filelist.push(listentry);
+      //console.log("Output File:", htmlfile);
+    });
+    var mdlist = "# All Pages\n\nList of all pages in *foss@bphc* repository.\n\n";
+    filelist.forEach(function (elem, index) {
+      // console.log("Lister:", index, elem.title, elem.link);
+      mdlist += index + ". **[" + elem.title + "](" + elem.link.replace("../docs/","docs/") + ")** at `" + elem.link.replace("../docs/","/docs/") + "`\n";
+    });
+    var htmllist = marked(mdlist);
+    template = template.replace('<%=content%>', htmllist);
+    template = template.replace('<%=title%>', "All Pages");
+    var mkdirp = require('mkdirp');
+    var filepath = "../index.html";
+    mkdirp(parsePath(filepath).dir, function (err) {
+      if (err) {
+        return console.log(err);
+      }
+      fs.writeFile(filepath, template, function (err) {
+        if (err) {
+          return console.log(err);
+        }
+        console.log("Lister: Storing links in",filepath);
+      });
+    });
+    //console.log(template);
+  });
+}
 
 var start = function () {
   if (!options.src) {
     options.src = [];
-    console.log("Maker: No files specified. Searching in source directory.");
+    console.log("Indexer: No files specified. Searching in source directory.");
     var recursive = require('recursive-readdir');
     recursive(srcdir, function (err, files) {
       files.forEach(function (file) {
@@ -84,6 +128,7 @@ var start = function () {
     srcext = "";
   }
   loadtemplate();
+  makelinks();
 };
 
 
