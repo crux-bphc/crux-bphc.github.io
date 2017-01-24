@@ -128,7 +128,7 @@ var start = function () {
     srcext = "";
   }
   loadtemplate();
-  makelinks();
+  //makelinks();
 };
 
 
