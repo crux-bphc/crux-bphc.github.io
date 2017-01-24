@@ -1,6 +1,6 @@
 body {
-    padding-left: 25%;
-    padding-right: 25%;
+    padding-left: 10%;
+    padding-right: 10%;
     padding-top: 10px;
     padding-bottom: 10px;
     background-color: #fefefe;
@@ -28,6 +28,10 @@ body {
     background-color: #333;
     color: #eee;
     padding: 20px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    left: 0;
     padding-top:10px;
     padding-bottom: 2px;
     border-radius: 5px 5px 0px 0px;
