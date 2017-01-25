@@ -1,0 +1,59 @@
+.terminal {
+	font-size: 1.5em;
+	position: fixed;
+	top:0;
+	background-color: #002b36;
+	left:0;
+	width:100%;
+	height:100%;
+	background-blend-mode:overlay;
+	color: #efefef;
+	box-sizing: border-box;
+	font-family: "Inconsolata", monospace;
+	padding-left: 5%;
+	color: #eee8d5;
+	border-color: #002b36;
+}
+.terminal pre {
+	font-family: inherit;
+}
+.terminal > * {
+	display: block;
+	margin:10px;
+}
+.terminal .prompt {
+	color:#268bd2;
+}
+.terminal .cursor {
+	background-color:#eee8d5;
+	height: 1em;
+	width:0.5em;
+	display: inline-block;
+	vertical-align: bottom;
+	animation:phase-beam 0.75s infinite linear;
+}
+.terminal .special {
+	color:#2aa198;
+	font-weight: 700;
+	padding-right: 2em;
+	margin-right:2em;
+}
+.terminal a.special {
+	text-decoration: none;
+}
+.terminal a.special:hover {
+	text-decoration:underline;
+}
+
+@keyframes phase-beam {
+	0% {
+		opacity: 0;
+	}
+	50% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+	}
+
+}

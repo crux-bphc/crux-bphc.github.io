@@ -10,17 +10,11 @@ This project aims to convert all your shouting into calendar events. is cool shi
 
 Source Code is on [Github](https://github.com/aero31aero/shoutbox-calendar). This project is a team project and we are happy to have PRs.
 
-### Shoutboxx Calculator
+## Skills
 
-This project aims to convert all your shouting into calendar events. is cool shiz, do check it out.
-
-Source Code is on [Github](https://github.com/aero31aero/shoutbox-calendar). This project is a team project and we are happy to have PRs.
-
-### Shoutboxx Clock
-
-This project aims to convert all your shouting into calendar events. is cool shiz, do check it out.
-
-Source Code is on [Github](https://github.com/aero31aero/shoutbox-calendar). This project is a team project and we are happy to have PRs.
+* **NodeJS** - Basic
+* **Python** - Hell Basic
+* **Bullshitting** - Pro Level.
 
 ## Contact
 

@@ -1,9 +1,8 @@
 body {
-    padding-left: 10%;
-    padding-right: 10%;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-left: 27%;
+    padding-right: 23%;
     background-color: #fefefe;
+    margin: 0;
 }
 
 @media only screen and (max-width: 900px) {
@@ -25,21 +24,39 @@ body {
 }
 
 .header{
-    background-color: #333;
-    color: #eee;
-    padding: 20px;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    left: 0;
-    padding-top:10px;
+    padding: 0px;
+    padding-top: 10px;
     padding-bottom: 2px;
-    border-radius: 5px 5px 0px 0px;
     margin-bottom: 10px;
     text-align: left;
-    font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    position: relative;
+    top: 50px;
+    left: unset;
+    height: unset;
+    min-height: 130px;
+    font-size: 0.95em;
+    font-weight: 700;
+    position: fixed;
+    left: 0;
+    width: unset;
 }
-
+.header::after {
+    content: "";
+    position: absolute;
+    border-left: 40px #002b36 solid;
+    border-style: solid;
+    top: 0;
+    border-top: 65px solid transparent;
+    border-bottom: 65px solid transparent;
+    border-right: none;
+    left: 100%;
+}
+.header > * {
+    margin-top:0px;
+} 
+.header > pre {
+    font-size: 1.2em;
+}
 .header h1 {
     font-size: 40px;
     margin-top: 0px;
