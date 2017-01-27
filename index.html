@@ -128,6 +128,7 @@ var terminal = {
             case 'clear':
                 {
                     location.reload();
+                    return;
                     break;
                 }
             default:
@@ -175,6 +176,9 @@ var terminal = {
 
     onkeypress: function(e) {
         if (e.keyCode == 13) {
+            var command = this.activePrompt.innerHTML.trim();
+            if(command === "") return;
+            console.log('blah blah');
             e.preventDefault();
             this.refreshPrompt();
             this.caretPosition = 0;
