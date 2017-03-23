@@ -1,2 +1,2 @@
-# https://cruxbphc.github.io/
-Website for Crux, The computer programming club of Bits Pilani Hyderabad Campus
+# https://crux-bphc.github.io/
+Website for Crux, the computer programming club of BITS Pilani Hyderabad Campus.
