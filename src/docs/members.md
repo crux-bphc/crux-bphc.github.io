@@ -11,6 +11,7 @@
 * [Himanshu Gupta](members/himanshu-gupta.html)
 * [Kushagra Agrawal](members/kushagra-agrawal.html)
 * [Afroz Ahama](members/afroz-ahama.html)
+* [Srimanta Barua](members/srimanta-barua.html)
 * [Ajay Krishna](members/ajay-krishna.html)
 * [Praneet Mehta](members/praneet-mehta.html)
 * [Sample Member](members/sample-member.html)
