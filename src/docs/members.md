@@ -9,6 +9,7 @@
 * [Kushal Agrawal](members/kushal-agrawal.html)
 * [Uddhav Mishra](members/uddhav-mishra.html)
 * [Himanshu Gupta](members/himanshu-gupta.html)
+* [Kushagra Agrawal](members/kushagra-agrawal.html)
 * [Afroz Ahama](members/afroz-ahama.html)
 * [Ajay Krishna](members/ajay-krishna.html)
 * [Praneet Mehta](members/praneet-mehta.html)
