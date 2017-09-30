@@ -1,267 +1,37 @@
-<html>
+<!DOCTYPE html>
 
-<head>
-    <title>Crux - Hello World.</title>
-    <link rel="stylesheet" type="text/css" href="/css/github-markdown.css">
-    <link rel="stylesheet" type="text/css" href="/css/prism.css">
-    <link rel="stylesheet" type="text/css" href="./css/home.css">
-    <link rel="stylesheet" type="text/css" href="/css/index.css">
-    <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
-</head>
+<html spellcheck="false">
+  <head>
+    <title>Crux - Hello World</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="css/term.css">
+  </head>
 
-<body>
-    <div class='terminal'>
-        <pre>
-   ______ ____   __  __ _  __
-  / ____// __ \ / / / /| |/ /
- / /    / /_/ // / / / |   / 
-/ /___ / _, _// /_/ / /   |  
-\____//_/ |_| \____/ /_/|_|</pre>
-        <span>Copyright (c) 2011-2017</span>
-        <br/>
-        <span>
-			<span class="prompt">root@members:~$</span>
-        <span>ls</span>
-        </span>
-        <span>
-        	<a href="docs/about.html" class="special">ABOUT</a>
-        	<a href="docs/members.html" class="special">MEMBERS</a>
-        	<a href="docs/projects.html" class="special">PROJECTS</a>
-        </span>
-        <span>
-	        <span class="prompt">root@members:~$</span>
-        <span class="cursor" contenteditable="true"></span>
-        <span class="caret"></span>
-        </span>
+  <body>
+    <span id="neofetch">
+      <pre id="logo">
+          ####            
+         #######        ###
+       #### #####     ###  ###
+     #####    ##    ###  ###
+      ######      ###  ###
+        ######  ###  ###
+          ######   ### 
+            ######       # 
+         ###  ######   ##### 
+       ###  ### ######   #####
+     ###  ###     ###### ### 
+   ###  ###         ######
+      ###             ##
+      </pre>
+    </span>
+
+    <div id="terminal">
+      <span class="in_line">
+        <span class="prompt"><span class="pwd"></span> $</span> <span class="cmdline"></span>
+      </span>
     </div>
-    <script type="text/javascript" src="../js/prism.js"></script>
-    <script type="text/javascript" src="../js/index.js"></script>
-</body>
-<script>
-var terminal = {
 
-    terminal: document.getElementsByClassName('terminal')[0],
-    caretPosition: 0,
-    activePrompt: document.getElementsByClassName('cursor')[0],
-    history: [
-        "ls"
-    ],
-    historyCounter: -1,
-    dirTree: [{
-        label: "ABOUT",
-        link: "docs/about.html"
-    }, {
-        label: "MEMBERS",
-        link: "docs/members.html"
-    }, {
-        label: "PROJECTS",
-        link: "docs/projects.html"
-    }],
-
-    nickMap: [{
-        nick: "calvrix",
-        name: "Abhilash Verma"
-    },
-    {
-    	nick: "aero31aero",
-    	name: "Rohitt Vashishtha"
-    },
-    {
-    	nick: "blade",
-    	name: "Himanshu Gupta"
-    }],
-
-    initPromptListeners: function() {
-        disableCarriageReturn(this.activePrompt);
-        this.activePrompt.addEventListener('keyup', this.onkeypress.bind(this), false);
-        this.activePrompt.focus();
-        this.historyCounter = -1;
-    },
-
-    genResponse: function(command) {
-        var response;
-        switch (command.split(' ')[0]) {
-            case 'ls':
-                {
-                    response = this.parseResponse({
-                        status: 1,
-                        message: "",
-                        list: this.dirTree
-                    });
-                    break;
-                }
-            case 'whois':
-                {
-                    var param = command.split(' ')[1];
-                    var name = this.nickMap.filter(function(item) {
-                        return item.nick == param;
-                    });
-                    if (name[0])
-                        response = this.parseResponse({
-                            status: 0,
-                            message: '"' + name[0].name + '"'
-                        })
-                    else {
-                        response = this.parseResponse({
-                            status: -1,
-                            message: "whois: no such member: '" + param + "'"
-                        })
-                    }
-                    break;
-                }
-            case 'cd':
-                {
-                    var param = command.split(' ')[1];
-                    var url = this.dirTree.filter(function(item) {
-                        return item.label == param;
-                    });
-                    if (url[0])
-                        window.location = url[0].link;
-                    else {
-                        response = this.parseResponse({
-                            status: -1,
-                            message: "cd: no such directory: '" + param + "'"
-                        })
-                    }
-                    break;
-                }
-            case 'clear':
-                {
-                    location.reload();
-                    return;
-                    break;
-                }
-            default:
-                {
-                    response = this.parseResponse({
-                        status: -1,
-                        message: "Error: Command not found"
-                    });
-                }
-        }
-        var responseNode = document.createElement('span');
-        responseNode.innerHTML = response;
-        this.terminal.appendChild(responseNode);
-    },
-
-    refreshPrompt: function() {
-        var command = this.activePrompt.innerHTML.trim();
-        this.history.unshift(command);
-        console.log(this.history, this.historyCounter);
-        this.genResponse(command);
-        this.activePrompt.setAttribute('contenteditable', "true");
-        this.activePrompt.classList.remove('cursor');
-        var caret = document.getElementsByClassName('caret')[0];
-        caret.parentNode.removeChild(caret);
-
-        var newPrompt = document.createElement('span');
-        var pwd = document.createElement('span');
-        pwd.classList.add('prompt');
-        pwd.innerHTML = "root@members:~$";
-        newPrompt.appendChild(pwd);
-
-        var command = document.createElement('span');
-        command.classList.add('cursor');
-        command.setAttribute('contenteditable', "true");
-        newPrompt.appendChild(command);
-
-        var caret = document.createElement('span');
-        caret.classList.add('caret');
-        newPrompt.appendChild(caret);
-
-        this.activePrompt = command;
-        this.terminal.appendChild(newPrompt);
-        this.initPromptListeners();
-    },
-
-    onkeypress: function(e) {
-        if (e.keyCode == 13) {
-            var command = this.activePrompt.innerHTML.trim();
-            if(command === "") return;
-            console.log('blah blah');
-            e.preventDefault();
-            this.refreshPrompt();
-            this.caretPosition = 0;
-        } else if (e.keyCode == 38) {
-        	if ( this.history[this.historyCounter + 1] ) {
-            	this.historyCounter =  this.historyCounter + 1;	
-        		this.activePrompt.innerText = this.history[this.historyCounter];
-        	}
-        } else if (e.keyCode == 40) {
-        	if ( this.history[this.historyCounter - 1] ) {
-            	this.historyCounter =  this.historyCounter - 1;	
-        		this.activePrompt.innerText = this.history[this.historyCounter];
-        	}
-        } else {
-            this.caretPosition = Math.max(0, this.activePrompt.innerText.length - this.getCaretPosition());
-            document.getElementsByClassName('caret')[0].style.marginLeft = (this.caretPosition * -0.5) + "em";
-        }
-    },
-
-    getCaretPosition: function() {
-        if (window.getSelection && window.getSelection().getRangeAt) {
-            var range = window.getSelection().getRangeAt(0);
-            var selectedObj = window.getSelection();
-            var rangeCount = 0;
-            var childNodes = selectedObj.anchorNode.parentNode.childNodes;
-            for (var i = 0; i < childNodes.length; i++) {
-                if (childNodes[i] == selectedObj.anchorNode) {
-                    break;
-                }
-                if (childNodes[i].outerHTML)
-                    rangeCount += childNodes[i].outerHTML.length;
-                else if (childNodes[i].nodeType == 3) {
-                    rangeCount += childNodes[i].textContent.length;
-                }
-            }
-            return range.startOffset + rangeCount;
-        }
-        return -1;
-    },
-    parseResponse: function(responseObj) {
-        var response, className;
-
-        switch (responseObj.status) {
-            case -1:
-                {
-                    response = "<span class='error'>" + responseObj.message + "</span>";
-                    break;
-                }
-            case 0:
-                {
-                    response = "<span class='answer'>" + responseObj.message + "</span>";
-                    break;
-                }
-            case 1:
-                {
-                    response = "";
-                    responseObj.list.forEach(function(item) {
-                        if (item.link)
-                            response += "<a class='special' href=" + item.link + ">" + item.label + "</a>";
-                        else
-                            response += "<span class='special'>" + item.label + "</span>";
-                    });
-                    break;
-                }
-        }
-        return response;
-    }
-}
-
-function disableCarriageReturn(elem) {
-    elem.onkeypress = catchReturn;
-    elem.onkeyup = catchReturn;
-    elem.onkeydown = catchReturn;
-
-    function catchReturn(e) {
-        if (e.keyCode == 13)
-            e.preventDefault();
-    }
-}
-
-window.onfocus = terminal.initPromptListeners.bind(terminal);
-document.onclick = terminal.initPromptListeners.bind(terminal);
-terminal.initPromptListeners();
-</script>
-
+    <script type="text/javascript" src="js/term.js"></script>
+  </body>
 </html>

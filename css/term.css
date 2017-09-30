@@ -1,0 +1,43 @@
+html {
+	background-color: black;
+	color: white;
+	height: 100%;
+	font-family: "Ubuntu Mono", "Inconsolata", "Lucida Console", monospace;
+}
+
+body {
+	margin-top: 2%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+#logo {
+	font-weight: bold;
+	color: #88ccee;
+}
+
+.ls-dir {
+	font-weight: bold;
+	color: #44aaee;
+}
+
+.ls-link {
+	font-weight: bold;
+	color: #44ee40;
+}
+
+::-moz-selection {
+	background-color: #2f2f2f;
+}
+
+::selection {
+	background-color: #2f2f2f;
+}
+
+:focus {
+	outline: 0;
+}
+
+.prompt {
+	font-weight: bold;
+}
