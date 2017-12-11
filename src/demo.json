@@ -1,0 +1,3026 @@
+{
+  "title": null,
+  "duration": 167.797666,
+  "version": 1,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "height": 47,
+  "width": 212,
+  "stdout": [
+    [
+      1.386237,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                   \r \r\u001b]2;rohitt@rohitt-laptop: ~/Documents/gitclones/crux-website/src\u0007\u001b]1;..x-website/src\u0007"
+    ],
+    [
+      0.194284,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[42m\u001b[34m \u001b[30m master ? ⍟4 \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[107C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10004 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:10 \u001b[39m\u001b[00m\u001b[49m\u001b[130D"
+    ],
+    [
+      0.181614,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000148,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[42m\u001b[34m \u001b[30m master ? ⍟4 \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[107C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10004 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:10 \u001b[39m\u001b[00m\u001b[49m\u001b[130D"
+    ],
+    [
+      3.7e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      3.966535,
+      "."
+    ],
+    [
+      0.081721,
+      "\b./"
+    ],
+    [
+      1.113569,
+      "m"
+    ],
+    [
+      0.129268,
+      "a"
+    ],
+    [
+      0.491269,
+      "k"
+    ],
+    [
+      0.118478,
+      "e"
+    ],
+    [
+      0.268495,
+      "\u0007\r\r\n"
+    ],
+    [
+      4.6e-05,
+      "\u001b[J\u001b[1;31mmaker\u001b[0m/         \u001b[J\u001b[1;32mmake-site.sh\u001b[0m*\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[81C./make\u001b[K\u001b[101C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10004 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:10 \u001b[39m\u001b[00m\u001b[49m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\u001b[124D"
+    ],
+    [
+      0.585778,
+      "r\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.001701,
+      "\r"
+    ],
+    [
+      0.000832,
+      "\r\n"
+    ],
+    [
+      0.001988,
+      "\u001b[J\u001b[7mmaker/       \u001b[0m  \u001b[J\u001b[1;32mmake-site.sh\u001b[0m*\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[81C"
+    ],
+    [
+      0.000928,
+      "./maker\u001b[1m/\u001b[0m\u001b[K\u001b[99C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10004 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:10 \u001b[39m\u001b[00m\u001b[49m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\u001b[122D"
+    ],
+    [
+      0.249828,
+      "\r\r\n"
+    ],
+    [
+      5.6e-05,
+      "\u001b[7mmaker/       \u001b[0m  \r\u001b[7mmaker/       \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[81C"
+    ],
+    [
+      3.7e-05,
+      "./maker\u001b[1m/\u001b[0m\u001b[K\u001b[99C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10004 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:10 \u001b[39m\u001b[00m\u001b[49m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\u001b[122D"
+    ],
+    [
+      2.5e-05,
+      "\b\b-\u001b[0msite.sh\r\r\n"
+    ],
+    [
+      0.000105,
+      "\u001b[15C\u001b[7mmake-site.sh*\u001b[0m\r\u001b[1;31mmaker\u001b[0m/         \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[81C./make-site.sh\u001b[K\u001b[93C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10004 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:10 \u001b[39m\u001b[00m\u001b[49m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\u001b[116D"
+    ],
+    [
+      0.31688,
+      "\r\r\n\u001b[J\u001b[A\u001b[95C\u001b[1m \u001b[0m"
+    ],
+    [
+      0.413707,
+      "\b\u001b[0m \b"
+    ],
+    [
+      0.152423,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000193,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[42m\u001b[34m \u001b[30m master ? ⍟4 \u001b[49m\u001b[32m\u001b[39m ./make-site.sh\u001b[K\u001b[93C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10004 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:18 \u001b[39m\u001b[00m\u001b[49m\u001b[116D"
+    ],
+    [
+      7.7e-05,
+      "\r\r\n"
+    ],
+    [
+      0.000811,
+      "\u001b]2;./make-site.sh\u0007\u001b]1;./make-site.sh\u0007"
+    ],
+    [
+      3.658227,
+      "\u001b[?25h"
+    ],
+    [
+      0.001061,
+      "\u001b[0G"
+    ],
+    [
+      0.00015,
+      "\u001b[K"
+    ],
+    [
+      0.001279,
+      "\r\n> foss-log@0.0.1 start /home/rohitt/Documents/gitclones/crux-website/src\r\n> node maker/make.js\r\n\r\n"
+    ],
+    [
+      0.001173,
+      "\u001b[?25l"
+    ],
+    [
+      9.5e-05,
+      "\u001b[0G"
+    ],
+    [
+      4.7e-05,
+      "▀ ╢░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000582,
+      "\u001b[?25h"
+    ],
+    [
+      0.001237,
+      "\u001b[?25h"
+    ],
+    [
+      5.6e-05,
+      "\u001b[1A\u001b[0G\u001b[K"
+    ],
+    [
+      0.000313,
+      "\u001b[?25h"
+    ],
+    [
+      3.5e-05,
+      "\u001b[0G\u001b[K"
+    ],
+    [
+      0.355283,
+      "Indexer: No files specified. Searching in source directory.\r\n"
+    ],
+    [
+      0.255681,
+      "Maker: File docs/members.md Processed.\r\n"
+    ],
+    [
+      0.000418,
+      "Maker: File docs/members/basu-dubey.md Processed.\r\n"
+    ],
+    [
+      1.9e-05,
+      "Maker: File docs/members/afroz-ahamad.md Processed.\r\n"
+    ],
+    [
+      6e-05,
+      "Maker: File docs/members/hitesh-bhagchandani.md Processed.\r\nMaker: File docs/code.md Processed.\r\n"
+    ],
+    [
+      1.6e-05,
+      "Maker: File docs/members/ajay-krishna.md Processed.\r\n"
+    ],
+    [
+      4.7e-05,
+      "Maker: File docs/members/kushal-agrawal.md Processed.\r\n"
+    ],
+    [
+      1.5e-05,
+      "Maker: File docs/members/naren-surampudi.md Processed.\r\n"
+    ],
+    [
+      4.5e-05,
+      "Maker: File docs/members/praneet-mehta.md Processed.\r\n"
+    ],
+    [
+      1.4e-05,
+      "Maker: File docs/members/rohitt-vashishtha.md Processed.\r\n"
+    ],
+    [
+      4.6e-05,
+      "Maker: File docs/members/shri-akhil-chellapilla.md Processed.\r\nMaker: File docs/members/srimanta_barua.md Processed.\r\n"
+    ],
+    [
+      4.4e-05,
+      "Maker: File docs/members/uddhav-mishra.md Processed.\r\n"
+    ],
+    [
+      1.3e-05,
+      "Maker: File docs/members/sample-member.md Processed.\r\n"
+    ],
+    [
+      0.000116,
+      "Maker: File docs/members/vaibhav-bhasin.md Processed.\r\n"
+    ],
+    [
+      4.9e-05,
+      "Maker: File docs/members/harshit-agarwal.md Processed.\r\n"
+    ],
+    [
+      1.4e-05,
+      "Maker: File docs/members/himanshu-gupta.md Processed.\r\n"
+    ],
+    [
+      0.018276,
+      "Maker: File docs/members/kushagra-agrawal.md Processed.\r\n"
+    ],
+    [
+      0.03228,
+      "\u001b[?25l"
+    ],
+    [
+      6.2e-05,
+      "\u001b[0G"
+    ],
+    [
+      4.6e-05,
+      "▀ ╢░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000233,
+      "\u001b[?25h"
+    ],
+    [
+      0.005429,
+      "\u001b[?25h"
+    ],
+    [
+      4.8e-05,
+      "\u001b[1A"
+    ],
+    [
+      4.7e-05,
+      "\u001b[0G\u001b[K"
+    ],
+    [
+      8.8e-05,
+      "\u001b[?25h"
+    ],
+    [
+      2.9e-05,
+      "\u001b[0G"
+    ],
+    [
+      3e-05,
+      "\u001b[K"
+    ],
+    [
+      0.050063,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                   \r \r"
+    ],
+    [
+      0.000103,
+      "\u001b]2;rohitt@rohitt-laptop: ~/Documents/gitclones/crux-website/src\u0007"
+    ],
+    [
+      0.00055,
+      "\u001b]1;..x-website/src\u0007"
+    ],
+    [
+      1.98213,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[105C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10005 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:24 \u001b[39m\u001b[00m\u001b[49m\u001b[128D"
+    ],
+    [
+      0.138475,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000241,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m "
+    ],
+    [
+      3.1e-05,
+      "\u001b[K\u001b[105C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10005 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:24 \u001b[39m\u001b[00m\u001b[49m\u001b[128D"
+    ],
+    [
+      8.2e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      1.131567,
+      "g"
+    ],
+    [
+      0.145475,
+      "\bgi"
+    ],
+    [
+      0.068012,
+      "t"
+    ],
+    [
+      0.083759,
+      " "
+    ],
+    [
+      0.404931,
+      "d"
+    ],
+    [
+      0.092533,
+      "i"
+    ],
+    [
+      0.12885,
+      "f"
+    ],
+    [
+      0.136028,
+      "f"
+    ],
+    [
+      0.479119,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000191,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m git diff\u001b[K\u001b[97C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10005 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:27 \u001b[39m\u001b[00m\u001b[49m\u001b[120D"
+    ],
+    [
+      6.9e-05,
+      "\r\r\n"
+    ],
+    [
+      0.00059,
+      "\u001b]2;git diff\u0007"
+    ],
+    [
+      1.4e-05,
+      "\u001b]1;git\u0007"
+    ],
+    [
+      0.054946,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.00911,
+      "\u001b[1mdiff --git a/docs/members.html b/docs/members.html\u001b[m\u001b[m\r\n\u001b[1mindex 1916cf6..2b7779a 100644\u001b[m\u001b[m\r\n\u001b[1m--- a/docs/members.html\u001b[m\u001b[m\r\n\u001b[1m+++ b/docs/members.html\u001b[m\u001b[m\r\n\u001b[36m@@ -32,6 +32,7 @@\u001b[m \u001b[mMembers - Crux</title>\u001b[m\u001b[m\r\n <li><a href=\"members/himanshu-gupta.html\">Himanshu Gupta</a></li>\u001b[m\u001b[m\r\n <li><a href=\"members/kushagra-agrawal.html\">Kushagra Agrawal</a></li>\u001b[m\u001b[m\r\n <li><a href=\"members/afroz-ahama.html\">Afroz Ahama</a></li>\u001b[m\u001b[m\r\n\u001b[32m+\u001b[m\u001b[32m<li><a href=\"members/srimanta_barua.html\">Srimanta_Barua</a></li>\u001b[m\u001b[m\r\n <li><a href=\"members/ajay-krishna.html\">Ajay Krishna</a></li>\u001b[m\u001b[m\r\n <li><a href=\"members/praneet-mehta.html\">Praneet Mehta</a></li>\u001b[m\u001b[m\r\n <li><a href=\"members/sample-member.html\">Sample Member</a></li>\u001b[m\u001b[m\r\n\u001b[1mdiff --git a/src/docs/members.md b/src/docs/members.md\u001b[m\u001b[m\r\n\u001b[1mindex 08f5217..e84663c 100644\u001b[m\u001b[m\r\n\u001b[1m--- a/src/docs/members.md\u001b[m\u001b[m\r\n\u001b[1m+++ b/src/docs/members.md\u001b[m\u001b[m\r\n\u001b[36m@@ -11,6 +11,7 @@\u001b[m\u001b[m\r\n * [Himanshu Gupta](members/himanshu-gupta.html)\u001b[m\u001b[m\r\n * ["
+    ],
+    [
+      0.000119,
+      "Kushagra Agrawal](members/kushagra-agrawal.html)\u001b[m\u001b[m\r\n * [Afroz Ahama](members/afroz-ahama.html)\u001b[m\u001b[m\r\n\u001b[32m+\u001b[m\u001b[32m* [Srimanta_Barua](members/srimanta_barua.html)\u001b[m\u001b[m\r\n * [Ajay Krishna](members/ajay-krishna.html)\u001b[m\u001b[m\r\n * [Praneet Mehta](members/praneet-mehta.html)\u001b[m\u001b[m\r\n * [Sample Member](members/sample-member.html)\u001b[m\u001b[m\r\n\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      2.561766,
+      "\r\u001b[K\u001b[?1l\u001b>\u001b[?1049l"
+    ],
+    [
+      0.00051,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                   \r \r"
+    ],
+    [
+      9.8e-05,
+      "\u001b]2;rohitt@rohitt-laptop: ~/Documents/gitclones/crux-website/src\u0007"
+    ],
+    [
+      2.4e-05,
+      "\u001b]1;..x-website/src\u0007"
+    ],
+    [
+      0.146219,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[105C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10006 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:30 \u001b[39m\u001b[00m\u001b[49m\u001b[128D"
+    ],
+    [
+      0.139162,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000191,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[105C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10006 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:30 \u001b[39m\u001b[00m\u001b[49m\u001b[128D"
+    ],
+    [
+      7.4e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      0.688017,
+      "g"
+    ],
+    [
+      0.181511,
+      "\bgi"
+    ],
+    [
+      0.215254,
+      "t"
+    ],
+    [
+      0.178635,
+      " "
+    ],
+    [
+      0.271684,
+      "a"
+    ],
+    [
+      0.210255,
+      "d"
+    ],
+    [
+      0.161378,
+      "d"
+    ],
+    [
+      0.087728,
+      " "
+    ],
+    [
+      0.77776,
+      "d"
+    ],
+    [
+      1.005823,
+      "\b \b"
+    ],
+    [
+      1.117803,
+      "d"
+    ],
+    [
+      0.363891,
+      "\u0007\r\r\n"
+    ],
+    [
+      4.9e-05,
+      "\u001b[J\u001b[0mdemo.json  \u001b[Jdocs     \u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[83Cgit add d\u001b[K\u001b[96C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10006 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:30 \u001b[39m\u001b[00m\u001b[49m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\u001b[119D"
+    ],
+    [
+      0.935889,
+      "emo.json\r\r\n"
+    ],
+    [
+      0.000337,
+      "\u001b[J\u001b[7mdemo.json\u001b[0m  \u001b[Jdocs     \u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[83C"
+    ],
+    [
+      2.9e-05,
+      "git add demo.json\u001b[K\u001b[88C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10006 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:30 \u001b[39m\u001b[00m\u001b[49m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\u001b[111D"
+    ],
+    [
+      0.174431,
+      "\r\r\n"
+    ],
+    [
+      4.2e-05,
+      "\u001b[7mdemo.json\u001b[0m  \r\u001b[7mdemo.json\u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[83C"
+    ],
+    [
+      5e-05,
+      "git add demo.json\u001b[K\u001b[88C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10006 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:30 \u001b[39m\u001b[00m\u001b[49m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\u001b[111D"
+    ],
+    [
+      8e-05,
+      "\u001b[8Docs\u001b[1m/\u001b[0m    \b\b\b\b\r\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[11C\u001b[7mdocs     \u001b[0m\rdemo.json  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[83Cgit add docs\u001b[1m/\u001b[0m\u001b[K\u001b[92C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10006 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:30 \u001b[39m\u001b[00m\u001b[49m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\u001b[115D"
+    ],
+    [
+      0.60507,
+      "\r\r\n\u001b[J\u001b[A\u001b[96C"
+    ],
+    [
+      0.674025,
+      "\b\u001b[0m/members.md\u001b[1m \u001b[0m"
+    ],
+    [
+      1.240054,
+      "\b\u001b[0m \b"
+    ],
+    [
+      0.181525,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000489,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m "
+    ],
+    [
+      0.000316,
+      "git add docs/members.md\u001b[K\u001b[82C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10006 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:39 \u001b[39m\u001b[00m\u001b[49m\u001b[105D"
+    ],
+    [
+      0.000196,
+      "\r"
+    ],
+    [
+      8.5e-05,
+      "\r\n"
+    ],
+    [
+      0.001059,
+      "\u001b]2;git add docs/members.md\u0007"
+    ],
+    [
+      0.000129,
+      "\u001b]1;git\u0007"
+    ],
+    [
+      0.004306,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                   \r \r"
+    ],
+    [
+      0.000127,
+      "\u001b]2;rohitt@rohitt-laptop: ~/Documents/gitclones/crux-website/src\u0007\u001b]1;..x-website/src\u0007"
+    ],
+    [
+      0.202128,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[103C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10007 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:39 \u001b[39m\u001b[00m\u001b[49m\u001b[126D"
+    ],
+    [
+      0.179381,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.00021,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[103C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10007 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:39 \u001b[39m\u001b[00m\u001b[49m\u001b[126D"
+    ],
+    [
+      7.6e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      0.654494,
+      "g"
+    ],
+    [
+      0.154609,
+      "\bgi"
+    ],
+    [
+      0.054612,
+      "t"
+    ],
+    [
+      0.076939,
+      " "
+    ],
+    [
+      0.215397,
+      "a"
+    ],
+    [
+      0.181561,
+      "d"
+    ],
+    [
+      0.165478,
+      "d"
+    ],
+    [
+      0.077424,
+      " "
+    ],
+    [
+      0.176594,
+      "."
+    ],
+    [
+      0.140137,
+      "."
+    ],
+    [
+      0.215529,
+      "/"
+    ],
+    [
+      0.215688,
+      "docs\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.429754,
+      "\b\u001b[0m/members"
+    ],
+    [
+      0.667452,
+      "\u0007\r"
+    ],
+    [
+      5.7e-05,
+      "\r\n\u001b[J\u001b[0mmembers       \u001b[Jmembers.html\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[85Cgit add ../docs/members\u001b[K\u001b[80C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10007 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:39 \u001b[39m\u001b[00m\u001b[49m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\u001b[103D"
+    ],
+    [
+      0.444172,
+      "/\r\r\n"
+    ],
+    [
+      7.7e-05,
+      "\u001b[J\u001b[7mmembers     \u001b[0m  \u001b[Jmembers.html\u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[85C"
+    ],
+    [
+      2.5e-05,
+      "git add ../docs/members/\u001b[K\u001b[79C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10007 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:39 \u001b[39m\u001b[00m\u001b[49m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\u001b[102D"
+    ],
+    [
+      1.269237,
+      "\r\r\n"
+    ],
+    [
+      5.8e-05,
+      "\u001b[7mmembers     \u001b[0m  \r\u001b[7mmembers     \u001b[0m  \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[85C"
+    ],
+    [
+      3.3e-05,
+      "git add ../docs/members/\u001b[K\u001b[79C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10007 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:39 \u001b[39m\u001b[00m\u001b[49m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\u001b[102D"
+    ],
+    [
+      2.5e-05,
+      "\b.html\r\r\n"
+    ],
+    [
+      5.9e-05,
+      "\u001b[14C\u001b[7mmembers.html\u001b[0m\rmembers       \r\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[85C"
+    ],
+    [
+      1.9e-05,
+      "git add ../docs/members.html\u001b[K\u001b[75C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10007 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:39 \u001b[39m\u001b[00m\u001b[49m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\u001b[98D"
+    ],
+    [
+      0.898469,
+      "\r\r\n\u001b[J\u001b[A\u001b[113C\u001b[1m \u001b[0m"
+    ],
+    [
+      3.391071,
+      "\b\u001b[0m \b"
+    ],
+    [
+      0.136242,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000211,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m git add ../docs/members.html\u001b[K\u001b[75C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10007 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:49 \u001b[39m\u001b[00m\u001b[49m\u001b[98D"
+    ],
+    [
+      8e-05,
+      "\r\r\n"
+    ],
+    [
+      0.000594,
+      "\u001b]2;git add ../docs/members.html\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.002603,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                   \r \r"
+    ],
+    [
+      0.000122,
+      "\u001b]2;rohitt@rohitt-laptop: ~/Documents/gitclones/crux-website/src\u0007"
+    ],
+    [
+      2.5e-05,
+      "\u001b]1;..x-website/src\u0007"
+    ],
+    [
+      0.209698,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[105C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10008 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:49 \u001b[39m\u001b[00m\u001b[49m\u001b[128D"
+    ],
+    [
+      0.183572,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000373,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[105C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10008 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:49 \u001b[39m\u001b[00m\u001b[49m\u001b[128D\u001b[?2004h"
+    ],
+    [
+      0.540454,
+      "g"
+    ],
+    [
+      0.140008,
+      "\bgi"
+    ],
+    [
+      0.052846,
+      "t"
+    ],
+    [
+      0.071158,
+      " "
+    ],
+    [
+      0.211223,
+      "a"
+    ],
+    [
+      0.273897,
+      "d"
+    ],
+    [
+      0.165804,
+      "d"
+    ],
+    [
+      0.101454,
+      " "
+    ],
+    [
+      0.201719,
+      "demo.json\u001b[1m \u001b[0m"
+    ],
+    [
+      0.451391,
+      "\u0007"
+    ],
+    [
+      0.382611,
+      "\b\u001b[0m \b"
+    ],
+    [
+      0.499918,
+      "\b \b"
+    ],
+    [
+      0.030614,
+      "\b \b"
+    ],
+    [
+      0.030106,
+      "\b \b"
+    ],
+    [
+      0.029926,
+      "\b \b"
+    ],
+    [
+      0.029842,
+      "\b \b"
+    ],
+    [
+      0.029514,
+      "\b \b"
+    ],
+    [
+      0.030543,
+      "\b \b"
+    ],
+    [
+      0.203547,
+      "\b \b"
+    ],
+    [
+      0.153946,
+      "\b \b"
+    ],
+    [
+      0.444713,
+      "."
+    ],
+    [
+      0.129612,
+      "."
+    ],
+    [
+      0.051361,
+      "/"
+    ],
+    [
+      0.219349,
+      "docs\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.341072,
+      "\b\u001b[0m/members\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.429516,
+      "\b\u001b[0m/srimanta_barua.html\u001b[1m \u001b[0m"
+    ],
+    [
+      0.856938,
+      "\b\u001b[0m \b"
+    ],
+    [
+      0.129539,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000175,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ? ⍟4 \u001b[49m\u001b[33m\u001b[39m git add ../docs/members/srimanta_barua.html\u001b[K\u001b[62C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10008 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:55 \u001b[39m\u001b[00m\u001b[49m\u001b[85D"
+    ],
+    [
+      7.4e-05,
+      "\r\r\n"
+    ],
+    [
+      0.000629,
+      "\u001b]2;git add ../docs/members/srimanta_barua.html\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.002753,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                   \r \r"
+    ],
+    [
+      0.000121,
+      "\u001b]2;rohitt@rohitt-laptop: ~/Documents/gitclones/crux-website/src\u0007"
+    ],
+    [
+      3e-05,
+      "\u001b]1;..x-website/src\u0007"
+    ],
+    [
+      0.148787,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[105C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10009 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:55 \u001b[39m\u001b[00m\u001b[49m\u001b[128D"
+    ],
+    [
+      0.145436,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000379,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[105C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10009 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:53:56 \u001b[39m\u001b[00m\u001b[49m\u001b[128D"
+    ],
+    [
+      7e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      0.596815,
+      "g"
+    ],
+    [
+      0.130522,
+      "\bgi"
+    ],
+    [
+      0.039205,
+      "t"
+    ],
+    [
+      0.085209,
+      " "
+    ],
+    [
+      0.820594,
+      "a"
+    ],
+    [
+      0.191173,
+      "d"
+    ],
+    [
+      0.156801,
+      "d"
+    ],
+    [
+      0.102997,
+      " "
+    ],
+    [
+      1.573585,
+      "demo.json\u001b[1m \u001b[0m"
+    ],
+    [
+      0.65632,
+      "\b\u001b[0m \b"
+    ],
+    [
+      0.500211,
+      "\b \b"
+    ],
+    [
+      0.029893,
+      "\b \b"
+    ],
+    [
+      0.030595,
+      "\b \b"
+    ],
+    [
+      0.029573,
+      "\b \b"
+    ],
+    [
+      0.029811,
+      "\b \b"
+    ],
+    [
+      0.030303,
+      "\b \b"
+    ],
+    [
+      0.273548,
+      "\b \b"
+    ],
+    [
+      0.206621,
+      "\b \b"
+    ],
+    [
+      0.580191,
+      "\b \b"
+    ],
+    [
+      0.76918,
+      "."
+    ],
+    [
+      0.13391,
+      "."
+    ],
+    [
+      0.016961,
+      "/"
+    ],
+    [
+      0.967402,
+      "d"
+    ],
+    [
+      0.142568,
+      "e"
+    ],
+    [
+      0.381079,
+      "\u0007"
+    ],
+    [
+      0.946707,
+      "\b \b"
+    ],
+    [
+      0.277434,
+      "\u0007"
+    ],
+    [
+      2.231449,
+      "\b \b"
+    ],
+    [
+      0.147083,
+      "\b \b"
+    ],
+    [
+      0.142543,
+      "\b \b"
+    ],
+    [
+      0.153005,
+      "\b \b"
+    ],
+    [
+      0.170697,
+      "\b"
+    ],
+    [
+      0.368196,
+      "\b \b"
+    ],
+    [
+      0.499187,
+      "\b \b"
+    ],
+    [
+      0.03081,
+      "\b \b"
+    ],
+    [
+      0.029846,
+      "\b"
+    ],
+    [
+      0.029275,
+      "\b \b"
+    ],
+    [
+      0.029929,
+      "\b\bg \b"
+    ],
+    [
+      0.030998,
+      "\b \b"
+    ],
+    [
+      0.665277,
+      "#"
+    ],
+    [
+      0.127522,
+      "\b# "
+    ],
+    [
+      0.337551,
+      "a"
+    ],
+    [
+      0.134494,
+      "l"
+    ],
+    [
+      0.140126,
+      "l"
+    ],
+    [
+      0.08574,
+      " "
+    ],
+    [
+      0.222926,
+      "d"
+    ],
+    [
+      0.065209,
+      "o"
+    ],
+    [
+      0.104909,
+      "n"
+    ],
+    [
+      0.062187,
+      "e"
+    ],
+    [
+      0.708203,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.0002,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ? ⍟4 \u001b[49m\u001b[33m\u001b[39m # all done\u001b[K\u001b[95C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10009 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:54:12 \u001b[39m\u001b[00m\u001b[49m\u001b[118D"
+    ],
+    [
+      4.2e-05,
+      "\r\r\n"
+    ],
+    [
+      0.000669,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                   \r \r"
+    ],
+    [
+      0.000103,
+      "\u001b]2;rohitt@rohitt-laptop: ~/Documents/gitclones/crux-website/src\u0007"
+    ],
+    [
+      2.7e-05,
+      "\u001b]1;..x-website/src\u0007"
+    ],
+    [
+      0.183676,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ? ⍟4 \u001b[49m\u001b[33m\u001b[39m "
+    ],
+    [
+      7.7e-05,
+      "\u001b[K\u001b[105C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10010 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:54:12 \u001b[39m\u001b[00m\u001b[49m\u001b[128D"
+    ],
+    [
+      0.162449,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000137,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ? ⍟4 \u001b[49m\u001b[33m\u001b[39m "
+    ],
+    [
+      3.4e-05,
+      "\u001b[K\u001b[105C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10010 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:54:12 \u001b[39m\u001b[00m\u001b[49m\u001b[128D"
+    ],
+    [
+      2.1e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      0.502137,
+      "g"
+    ],
+    [
+      0.178351,
+      "\bgi"
+    ],
+    [
+      0.044049,
+      "t"
+    ],
+    [
+      0.088154,
+      " "
+    ],
+    [
+      0.191868,
+      "s"
+    ],
+    [
+      0.176481,
+      "t"
+    ],
+    [
+      0.126912,
+      "a"
+    ],
+    [
+      0.090513,
+      "t"
+    ],
+    [
+      0.118119,
+      "u"
+    ],
+    [
+      0.090253,
+      "s"
+    ],
+    [
+      0.244966,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.00018,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ? ⍟4 \u001b[49m\u001b[33m\u001b[39m git status\u001b[K\u001b[95C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10010 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:54:14 \u001b[39m\u001b[00m\u001b[49m\u001b[118D"
+    ],
+    [
+      7.6e-05,
+      "\r\r\n"
+    ],
+    [
+      0.000638,
+      "\u001b]2;git status\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.002629,
+      "On branch master\r\nChanges to be committed:\r\n  (use \"git reset HEAD <file>...\" to unstage)\r\n\r\n"
+    ],
+    [
+      6.9e-05,
+      "\t\u001b[32mmodified:   ../docs/members.html\u001b[m\r\n\t\u001b[32mnew file:   ../docs/members/srimanta_barua.html\u001b[m\r\n\t\u001b[32mmodified:   docs/members.md\u001b[m\r\n\r\nUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\r\n\t\u001b[31mdemo.json\u001b[m\r\n\r\n"
+    ],
+    [
+      0.000847,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                   \r \r"
+    ],
+    [
+      9.1e-05,
+      "\u001b]2;rohitt@rohitt-laptop: ~/Documents/gitclones/crux-website/src\u0007"
+    ],
+    [
+      2.2e-05,
+      "\u001b]1;..x-website/src\u0007"
+    ],
+    [
+      0.144256,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[105C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10011 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:54:14 \u001b[39m\u001b[00m\u001b[49m\u001b[128D"
+    ],
+    [
+      0.140043,
+      "\u001b[?1h\u001b=\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[105C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10011 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:54:14 \u001b[39m\u001b[00m\u001b[49m\u001b[128D\u001b[?2004h"
+    ],
+    [
+      1.760056,
+      "g"
+    ],
+    [
+      0.102872,
+      "\bgi"
+    ],
+    [
+      0.078391,
+      "t"
+    ],
+    [
+      0.071497,
+      " "
+    ],
+    [
+      1.032153,
+      "c"
+    ],
+    [
+      0.128831,
+      "o"
+    ],
+    [
+      0.19775,
+      "m"
+    ],
+    [
+      0.139449,
+      "m"
+    ],
+    [
+      0.179246,
+      "i"
+    ],
+    [
+      0.079104,
+      "t"
+    ],
+    [
+      0.087219,
+      " "
+    ],
+    [
+      0.299222,
+      "-"
+    ],
+    [
+      0.135755,
+      "-"
+    ],
+    [
+      0.186077,
+      "a"
+    ],
+    [
+      0.110267,
+      "m"
+    ],
+    [
+      0.150704,
+      "e"
+    ],
+    [
+      0.12027,
+      "n"
+    ],
+    [
+      0.337944,
+      "d"
+    ],
+    [
+      2.600226,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000684,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ? ⍟4 \u001b[49m\u001b[33m\u001b[39m git commit --amend\u001b[K\u001b[87C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10011 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:54:22 \u001b[39m\u001b[00m\u001b[49m\u001b[110D"
+    ],
+    [
+      0.000141,
+      "\r\r\n"
+    ],
+    [
+      0.000442,
+      "\u001b]2;git commit --amend\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.345409,
+      "\u001b[?1049h\u001b[1;47r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b=\u001b[?1h\u001b=\u001b[?1h\u001b="
+    ],
+    [
+      0.050449,
+      "\u001b[39;49m\u001b[?25l"
+    ],
+    [
+      0.000791,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[45;99H\u001b(B\u001b[0;7m[ Reading File ]\r\u001b[3d\u001b(B\u001b[m"
+    ],
+    [
+      0.000427,
+      "\u001b[45;98H\u001b(B\u001b[0;7m[ Read 18 lines\r\u001b[21d\u001b(B\u001b[m"
+    ],
+    [
+      0.00409,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000611,
+      "\u001b[H\u001b[39;49m\u001b(B\u001b[0;7m  GNU nano 2.5.3                                       File: /home/rohitt/Documents/gitclones/crux-website/.git/COMMIT_EDITMSG                                                                                      \u001b[3;1H\u001b(B\u001b[mAdded srimanta_barua.md\r\u001b[5d# Please enter the commit message for your changes. Lines starting\r\u001b[6d# with '#' will be ignored, and an empty message aborts the commit.\r\u001b[7d#\u001b[8d\b# Author:    Srimanta Barua <srimanta.barua1@gmail.com>\r\u001b[9d# Date:\u001b[14GWed Mar 29 17:42:47 2017 +0530\r\u001b[10d#\u001b[11d\b# On branch master\r\u001b[12d# Changes to be committed:\r\u001b[13d#\u001b[9Gmodified:   ../docs/members.html\r\u001b[14d#\u001b[9Gnew file:   ../docs/members/srimanta_barua.html\r\u001b[15d#\u001b[9Gmodified:   docs/members.md\r\u001b[16d#\u001b[9Gnew file:   docs/members/srimanta_barua.md\r\u001b[17d#\u001b[18d\b# Untracked files:\r\u001b[19d#\u001b[9Gdemo.json\r\u001b[20d#\u001b[46d\b\u001b(B\u001b[0;7m^G\u001b(B\u001b[m Get Help\u001b[18G\u001b(B\u001b[0;7m^O\u001b(B\u001b[m Write Out     \u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is\u001b[52G\u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text\u001b[69G\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify\u001b[86G\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\u001b["
+    ],
+    [
+      2.2e-05,
+      "103G\u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page     \u001b(B\u001b[0;7mM-\\\u001b(B\u001b[m First Line   \u001b(B\u001b[0;7mM-W\u001b(B\u001b[m WhereIs Next \u001b(B\u001b[0;7m^^\u001b(B\u001b[m Mark Text     \u001b(B\u001b[0;7mM-}\u001b(B\u001b[m Indent Text  \u001b(B\u001b[0;7mM-U\u001b(B\u001b[m Undo\r\u001b[47d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Exit\u001b[47;18H\u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File     \u001b(B\u001b[0;7m^\\\u001b(B\u001b[m Replace\u001b[52G\u001b(B\u001b[0;7m^U\u001b(B\u001b[m Uncut Text    \u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell\u001b[86G\u001b(B\u001b[0;7m^_\u001b(B\u001b[m Go To Line    \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page     \u001b(B\u001b[0;7mM-/\u001b(B\u001b[m Last Line    \u001b(B\u001b[0;7mM-]\u001b(B\u001b[m To Bracket   \u001b(B\u001b[0;7mM-^\u001b(B\u001b[m Copy Text    \u001b(B\u001b[0;7mM-{\u001b(B\u001b[m Unindent Text\u001b(B\u001b[0;7mM-E\u001b(B\u001b[m Redo\r\u001b[3d"
+    ],
+    [
+      1.709798,
+      "A"
+    ],
+    [
+      0.500557,
+      "d"
+    ],
+    [
+      0.02996,
+      "d"
+    ],
+    [
+      0.030338,
+      "e"
+    ],
+    [
+      0.030836,
+      "d"
+    ],
+    [
+      0.029781,
+      " "
+    ],
+    [
+      0.029865,
+      "s"
+    ],
+    [
+      0.030352,
+      "r"
+    ],
+    [
+      0.029361,
+      "i"
+    ],
+    [
+      0.030235,
+      "m"
+    ],
+    [
+      0.031129,
+      "a"
+    ],
+    [
+      0.03025,
+      "n"
+    ],
+    [
+      0.030581,
+      "t"
+    ],
+    [
+      0.029764,
+      "a"
+    ],
+    [
+      0.029233,
+      "_"
+    ],
+    [
+      1.374491,
+      "\u001b[1;203H\u001b(B\u001b[0;7mModified\u001b[3;16H\u001b(B\u001b[m-barua.md\u001b[3;17H"
+    ],
+    [
+      0.811873,
+      "\b"
+    ],
+    [
+      0.250351,
+      "\b\u001b[1P"
+    ],
+    [
+      2.426431,
+      "\r\u001b[45d\u001b(B\u001b[0;7mFile Name to Write: /home/rohitt/Documents/gitclones/crux-website/.git/COMMIT_EDITMSG                                                                                                                               \u001b[46;18H\u001b(B\u001b[m\u001b[25X\u001b[46;43H\u001b(B\u001b[0;7mM-D\u001b(B\u001b[m DOS Format      \u001b[69G          \u001b[85G\u001b(B\u001b[0;7mM-A\u001b(B\u001b[m Append \u001b[103G\u001b[24X\u001b[46;127H\u001b(B\u001b[0;7mM-B\u001b(B\u001b[m Backup File\u001b[K\u001b[47;2H\u001b(B\u001b[0;7mC\u001b(B\u001b[m Cancel\u001b[47;18H\u001b[25X\u001b[47;43H\u001b(B\u001b[0;7mM-M\u001b(B\u001b[m Mac Format\u001b[28X\u001b[47;85H\u001b(B\u001b[0;7mM-P\u001b(B\u001b[m Prepend\u001b[31X\u001b[47;127H\u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Files\u001b[K\u001b[45;86H"
+    ],
+    [
+      0.361134,
+      "\u001b[?25l"
+    ],
+    [
+      2.8e-05,
+      "\u001b[45;97H\u001b[39;49m\u001b(B\u001b[m\u001b[1K \u001b(B\u001b[0;7m[ Wrote 18 lines ]\u001b(B\u001b[m\u001b[K\u001b[3;15H"
+    ],
+    [
+      0.000245,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000117,
+      "\u001b[1;203H\u001b(B\u001b[0;7m        \u001b[46;18H^O\u001b(B\u001b[m Write Out     \u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is      \u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text\u001b[69G\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify\u001b[85G \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\u001b[103G\u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page     \u001b(B\u001b[0;7mM-\\\u001b(B\u001b[m First Line   \u001b(B\u001b[0;7mM-W\u001b(B\u001b[m WhereIs Next \u001b(B\u001b[0;7m^^\u001b(B\u001b[m Mark Text     \u001b(B\u001b[0;7mM-}\u001b(B\u001b[m Indent Text  \u001b(B\u001b[0;7mM-U\u001b(B\u001b[m Undo\u001b[47;2H\u001b(B\u001b[0;7mX\u001b(B\u001b[m Exit  \u001b[47;18H\u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File     \u001b(B\u001b[0;7m^\\\u001b(B\u001b[m Replace       \u001b(B\u001b[0;7m^U\u001b(B\u001b[m Uncut Text    \u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell      \u001b(B\u001b[0;7m^_\u001b(B\u001b[m Go To Line    \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page     \u001b(B\u001b[0;7mM-/\u001b(B\u001b[m Last Line    \u001b(B\u001b[0;7mM-]\u001b(B\u001b[m To Bracket   \u001b(B\u001b[0;7mM-^\u001b(B\u001b[m Copy Text    \u001b(B\u001b[0;7mM-{\u001b(B\u001b[m Unindent Text\u001b(B\u001b[0;7mM-E\u001b(B\u001b[m Redo\u001b[3;15H"
+    ],
+    [
+      0.551033,
+      "\r\u001b[45d\u001b[J\u001b[47;212H"
+    ],
+    [
+      0.00022,
+      "\u001b[47;1H\u001b[?1049l\r\u001b[?1l\u001b>"
+    ],
+    [
+      0.016255,
+      "[master 20c8b3d] Added srimanta-barua.md"
+    ],
+    [
+      4.9e-05,
+      "\r\n"
+    ],
+    [
+      3.4e-05,
+      " Author: Srimanta Barua <srimanta.barua1@gmail.com>"
+    ],
+    [
+      2.9e-05,
+      "\r\n"
+    ],
+    [
+      4.1e-05,
+      " Date: Wed Mar 29 17:42:47 2017 +0530"
+    ],
+    [
+      3.5e-05,
+      "\r\n"
+    ],
+    [
+      0.000596,
+      " 4 files changed, 91 insertions(+)"
+    ],
+    [
+      3.7e-05,
+      "\r\n"
+    ],
+    [
+      5.7e-05,
+      " create mode 100644 docs/members/srimanta_barua.html"
+    ],
+    [
+      3e-05,
+      "\r\n"
+    ],
+    [
+      3.4e-05,
+      " create mode 100644 src/docs/members/srimanta_barua.md"
+    ],
+    [
+      2.9e-05,
+      "\r\n"
+    ],
+    [
+      0.004886,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                   \r \r\u001b]2;rohitt@rohitt-laptop: ~/Documents/gitclones/crux-website/src\u0007\u001b]1;..x-website/src\u0007"
+    ],
+    [
+      0.322386,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[42m\u001b[34m \u001b[30m master ? ⍟4 \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[107C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10012 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:54:31 \u001b[39m\u001b[00m\u001b[49m\u001b[130D"
+    ],
+    [
+      0.183059,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000234,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[42m\u001b[34m \u001b[30m master ? ⍟4 \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[107C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10012 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:54:31 \u001b[39m\u001b[00m\u001b[49m\u001b[130D"
+    ],
+    [
+      9.8e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      0.66205,
+      "g"
+    ],
+    [
+      0.15869,
+      "\bgi"
+    ],
+    [
+      0.035083,
+      "t"
+    ],
+    [
+      0.077898,
+      " "
+    ],
+    [
+      2.409435,
+      "\b"
+    ],
+    [
+      0.148488,
+      "\b \b"
+    ],
+    [
+      0.137802,
+      "\b\bg \b"
+    ],
+    [
+      0.11223,
+      "\b \b"
+    ],
+    [
+      0.786848,
+      "c"
+    ],
+    [
+      0.297814,
+      "\bcd"
+    ],
+    [
+      0.334198,
+      "\b\bc \b"
+    ],
+    [
+      0.695303,
+      "\bcd"
+    ],
+    [
+      0.185492,
+      " "
+    ],
+    [
+      1.704338,
+      "d"
+    ],
+    [
+      0.099362,
+      "o"
+    ],
+    [
+      0.095405,
+      "c"
+    ],
+    [
+      0.187397,
+      "s\u001b[1m/\u001b[0m"
+    ],
+    [
+      1.418362,
+      "\b\u001b[0m/m"
+    ],
+    [
+      0.155654,
+      "e"
+    ],
+    [
+      0.109668,
+      "m"
+    ],
+    [
+      0.079309,
+      "bers\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.415367,
+      "\b\u001b[0m \b"
+    ],
+    [
+      0.127425,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000144,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[42m\u001b[34m \u001b[30m master ? ⍟4 \u001b[49m\u001b[32m\u001b[39m cd docs/members\u001b[K\u001b[92C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10012 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:54:42 \u001b[39m\u001b[00m\u001b[49m\u001b[115D"
+    ],
+    [
+      7.9e-05,
+      "\r\r\n"
+    ],
+    [
+      0.000658,
+      "\u001b]2;cd docs/members\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      8e-05,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                   \r \r"
+    ],
+    [
+      5.3e-05,
+      "\u001b]2;rohitt@rohitt-laptop: ~/Documents/gitclones/crux-website/src/docs/members\u0007"
+    ],
+    [
+      4.9e-05,
+      "\u001b]1;../docs/members\u0007"
+    ],
+    [
+      0.213272,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src/docs/members \u001b[42m\u001b[34m \u001b[30m master ? ⍟4 \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[94C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10013 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:54:42 \u001b[39m\u001b[00m\u001b[49m\u001b[117D"
+    ],
+    [
+      0.127233,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000174,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src/docs/members \u001b[42m\u001b[34m \u001b[30m master ? ⍟4 \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[94C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10013 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:54:42 \u001b[39m\u001b[00m\u001b[49m\u001b[117D"
+    ],
+    [
+      7.4e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      0.239093,
+      "l"
+    ],
+    [
+      0.127162,
+      "\bls"
+    ],
+    [
+      0.170316,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000147,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src/docs/members \u001b[42m\u001b[34m \u001b[30m master ? ⍟4 \u001b[49m\u001b[32m\u001b[39m ls\u001b[K\u001b[92C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10013 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:54:43 \u001b[39m\u001b[00m\u001b[49m\u001b[115D"
+    ],
+    [
+      0.000152,
+      "\r\r\n"
+    ],
+    [
+      0.000523,
+      "\u001b]2;ls\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.010037,
+      "afroz-ahamad.md  basu-dubey.md\t     himanshu-gupta.md\t     kushagra-agrawal.md  naren-surampudi.md  rohitt-vashishtha.md  shri-akhil-chellapilla.md  uddhav-mishra.md\r\najay-krishna.md  harshit-agarwal.md  hitesh-bhagchandani.md  kushal-agrawal.md\t  praneet-mehta.md    sample-member.md\t    srimanta_barua.md\t       vaibhav-bhasin.md\r\n"
+    ],
+    [
+      0.000188,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                   \r \r"
+    ],
+    [
+      0.000103,
+      "\u001b]2;rohitt@rohitt-laptop: ~/Documents/gitclones/crux-website/src/docs/members\u0007"
+    ],
+    [
+      2.2e-05,
+      "\u001b]1;../docs/members\u0007"
+    ],
+    [
+      0.197707,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src/docs/members \u001b[42m\u001b[34m \u001b[30m master ? ⍟4 \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[94C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10014 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:54:43 \u001b[39m\u001b[00m\u001b[49m\u001b[117D"
+    ],
+    [
+      0.155665,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000109,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src/docs/members \u001b[42m\u001b[34m \u001b[30m master ? ⍟4 \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[94C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10014 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:54:43 \u001b[39m\u001b[00m\u001b[49m\u001b[117D"
+    ],
+    [
+      8.7e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      2.086215,
+      "m"
+    ],
+    [
+      0.084213,
+      "\bmv"
+    ],
+    [
+      0.102274,
+      " "
+    ],
+    [
+      0.24344,
+      "s"
+    ],
+    [
+      0.219728,
+      "r"
+    ],
+    [
+      0.164893,
+      "imanta_barua.md\u001b[1m \u001b[0m"
+    ],
+    [
+      1.054411,
+      "\b\u001b[0m s"
+    ],
+    [
+      0.136395,
+      "r"
+    ],
+    [
+      0.128251,
+      "imanta_barua.md\u001b[1m \u001b[0m"
+    ],
+    [
+      0.299391,
+      "\b\u001b[0m \b\b"
+    ],
+    [
+      0.500423,
+      "\b"
+    ],
+    [
+      0.029912,
+      "\b"
+    ],
+    [
+      0.029715,
+      "\b"
+    ],
+    [
+      0.030319,
+      "\b"
+    ],
+    [
+      0.030008,
+      "\b"
+    ],
+    [
+      0.029799,
+      "\b"
+    ],
+    [
+      0.029863,
+      "\b"
+    ],
+    [
+      0.030859,
+      "\b"
+    ],
+    [
+      0.326215,
+      "\u001b[1C"
+    ],
+    [
+      0.253338,
+      "\bbarua.md \u001b[9D"
+    ],
+    [
+      0.556077,
+      "-barua.md\u001b[8D"
+    ],
+    [
+      0.900978,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000255,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src/docs/members \u001b[42m\u001b[34m \u001b[30m master ? ⍟4 \u001b[49m\u001b[32m\u001b[39m "
+    ],
+    [
+      3.7e-05,
+      "mv srimanta_barua.md srimanta-barua.md\u001b[K\u001b[56C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10014 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:54:50 \u001b[39m\u001b[00m\u001b[49m\u001b[87D"
+    ],
+    [
+      0.000143,
+      "\r\r\n"
+    ],
+    [
+      0.000684,
+      "\u001b]2;mv srimanta_barua.md srimanta-barua.md\u0007"
+    ],
+    [
+      2.8e-05,
+      "\u001b]1;mv\u0007"
+    ],
+    [
+      0.03953,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                   \r \r"
+    ],
+    [
+      0.000139,
+      "\u001b]2;rohitt@rohitt-laptop: ~/Documents/gitclones/crux-website/src/docs/members\u0007"
+    ],
+    [
+      7.5e-05,
+      "\u001b]1;../docs/members\u0007"
+    ],
+    [
+      0.2574,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src/docs/members \u001b[43m\u001b[34m \u001b[30m master ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[92C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10015 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:54:51 \u001b[39m\u001b[00m\u001b[49m\u001b[115D"
+    ],
+    [
+      0.153894,
+      "\u001b[?1h\u001b=\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src/docs/members \u001b[43m\u001b[34m \u001b[30m master ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[92C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10015 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:54:51 \u001b[39m\u001b[00m\u001b[49m\u001b[115D\u001b[?2004h"
+    ],
+    [
+      1.227614,
+      "g"
+    ],
+    [
+      0.200224,
+      "\bgi"
+    ],
+    [
+      0.519508,
+      "\b\bg \b"
+    ],
+    [
+      0.154474,
+      "\b \b"
+    ],
+    [
+      0.770318,
+      "c"
+    ],
+    [
+      0.122731,
+      "\bcd"
+    ],
+    [
+      0.115325,
+      " "
+    ],
+    [
+      0.535686,
+      "."
+    ],
+    [
+      0.141041,
+      "."
+    ],
+    [
+      0.141152,
+      "."
+    ],
+    [
+      0.411223,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000479,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src/docs/members \u001b[43m\u001b[34m \u001b[30m master ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m cd ...\u001b[K\u001b[86C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10015 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:54:55 \u001b[39m\u001b[00m\u001b[49m\u001b[109D"
+    ],
+    [
+      7.2e-05,
+      "\r\r\n"
+    ],
+    [
+      0.000849,
+      "\u001b]2;cd ../..\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.000104,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                   \r \r"
+    ],
+    [
+      9.4e-05,
+      "\u001b]2;rohitt@rohitt-laptop: ~/Documents/gitclones/crux-website/src\u0007"
+    ],
+    [
+      6.3e-05,
+      "\u001b]1;..x-website/src\u0007"
+    ],
+    [
+      0.305459,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[105C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10016 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:54:55 \u001b[39m\u001b[00m\u001b[49m\u001b[128D"
+    ],
+    [
+      0.177027,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000104,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[105C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10016 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:54:56 \u001b[39m\u001b[00m\u001b[49m\u001b[128D"
+    ],
+    [
+      3.9e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      0.781599,
+      ","
+    ],
+    [
+      0.397223,
+      "\b \b"
+    ],
+    [
+      0.242339,
+      "."
+    ],
+    [
+      0.066558,
+      "\b./"
+    ],
+    [
+      0.348535,
+      "make-site.sh"
+    ],
+    [
+      0.502157,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.00017,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m "
+    ],
+    [
+      3.3e-05,
+      "./make-site.sh\u001b[K\u001b[91C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10016 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:54:58 \u001b[39m\u001b[00m\u001b[49m\u001b[114D"
+    ],
+    [
+      4.6e-05,
+      "\r\r\n"
+    ],
+    [
+      0.000739,
+      "\u001b]2;./make-site.sh\u0007\u001b]1;./make-site.sh\u0007"
+    ],
+    [
+      2.292785,
+      "\u001b[?25h"
+    ],
+    [
+      0.001994,
+      "\u001b[0G\u001b[K"
+    ],
+    [
+      0.000453,
+      "\r\n> foss-log@0.0.1 start /home/rohitt/Documents/gitclones/crux-website/src\r\n> node maker/make.js\r\n\r\n"
+    ],
+    [
+      0.000942,
+      "\u001b[?25l"
+    ],
+    [
+      9.7e-05,
+      "\u001b[0G"
+    ],
+    [
+      7e-05,
+      "▀ ╢░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000535,
+      "\u001b[?25h"
+    ],
+    [
+      0.000694,
+      "\u001b[?25h"
+    ],
+    [
+      6.9e-05,
+      "\u001b[1A"
+    ],
+    [
+      4.4e-05,
+      "\u001b[0G"
+    ],
+    [
+      2.1e-05,
+      "\u001b[K"
+    ],
+    [
+      0.000232,
+      "\u001b[?25h"
+    ],
+    [
+      2.6e-05,
+      "\u001b[0G"
+    ],
+    [
+      1.9e-05,
+      "\u001b[K"
+    ],
+    [
+      0.278528,
+      "Indexer: No files specified. Searching in source directory.\r\n"
+    ],
+    [
+      0.174832,
+      "Maker: File docs/members.md Processed.\r\n"
+    ],
+    [
+      0.000308,
+      "Maker: File docs/members/basu-dubey.md Processed.\r\n"
+    ],
+    [
+      2.3e-05,
+      "Maker: File docs/members/harshit-agarwal.md Processed.\r\n"
+    ],
+    [
+      4.2e-05,
+      "Maker: File docs/code.md Processed.\r\n"
+    ],
+    [
+      5.5e-05,
+      "Maker: File docs/members/himanshu-gupta.md Processed.\r\n"
+    ],
+    [
+      3.3e-05,
+      "Maker: File docs/members/ajay-krishna.md Processed.\r\n"
+    ],
+    [
+      2.9e-05,
+      "Maker: File docs/members/kushagra-agrawal.md Processed.\r\n"
+    ],
+    [
+      2.9e-05,
+      "Maker: File docs/members/praneet-mehta.md Processed.\r\n"
+    ],
+    [
+      4.1e-05,
+      "Maker: File docs/members/kushal-agrawal.md Processed.\r\n"
+    ],
+    [
+      2.3e-05,
+      "Maker: File docs/members/hitesh-bhagchandani.md Processed.\r\n"
+    ],
+    [
+      4.3e-05,
+      "Maker: File docs/members/srimanta-barua.md Processed.\r\n"
+    ],
+    [
+      1.5e-05,
+      "Maker: File docs/members/afroz-ahamad.md Processed.\r\n"
+    ],
+    [
+      2.7e-05,
+      "Maker: File docs/members/uddhav-mishra.md Processed.\r\n"
+    ],
+    [
+      5.9e-05,
+      "Maker: File docs/members/naren-surampudi.md Processed.\r\n"
+    ],
+    [
+      3.9e-05,
+      "Maker: File docs/members/vaibhav-bhasin.md Processed.\r\n"
+    ],
+    [
+      2.5e-05,
+      "Maker: File docs/members/rohitt-vashishtha.md Processed.\r\n"
+    ],
+    [
+      3.6e-05,
+      "Maker: File docs/members/shri-akhil-chellapilla.md Processed.\r\n"
+    ],
+    [
+      3.2e-05,
+      "Maker: File docs/members/sample-member.md Processed.\r\n"
+    ],
+    [
+      0.00297,
+      "\u001b[?25l"
+    ],
+    [
+      5.5e-05,
+      "\u001b[0G▀ ╢░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟\r\n"
+    ],
+    [
+      0.000165,
+      "\u001b[?25h"
+    ],
+    [
+      0.004417,
+      "\u001b[?25h"
+    ],
+    [
+      5.3e-05,
+      "\u001b[1A\u001b[0G\u001b[K"
+    ],
+    [
+      0.000101,
+      "\u001b[?25h"
+    ],
+    [
+      2.7e-05,
+      "\u001b[0G"
+    ],
+    [
+      2.4e-05,
+      "\u001b[K"
+    ],
+    [
+      0.048342,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                   \r \r"
+    ],
+    [
+      8.7e-05,
+      "\u001b]2;rohitt@rohitt-laptop: ~/Documents/gitclones/crux-website/src\u0007"
+    ],
+    [
+      2.8e-05,
+      "\u001b]1;..x-website/src\u0007"
+    ],
+    [
+      0.13485,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[105C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10017 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:55:01 \u001b[39m\u001b[00m\u001b[49m\u001b[128D"
+    ],
+    [
+      0.118938,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000274,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m "
+    ],
+    [
+      3.6e-05,
+      "\u001b[K\u001b[105C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10017 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:55:01 \u001b[39m\u001b[00m\u001b[49m\u001b[128D\u001b[?2004h"
+    ],
+    [
+      1.891443,
+      "g"
+    ],
+    [
+      0.096493,
+      "\bgi"
+    ],
+    [
+      0.07165,
+      "t"
+    ],
+    [
+      0.082741,
+      " "
+    ],
+    [
+      0.287091,
+      "a"
+    ],
+    [
+      0.165197,
+      "d"
+    ],
+    [
+      0.169671,
+      "d"
+    ],
+    [
+      0.090183,
+      " "
+    ],
+    [
+      3.113685,
+      "d"
+    ],
+    [
+      0.298495,
+      "o"
+    ],
+    [
+      0.103209,
+      "c"
+    ],
+    [
+      0.225261,
+      "s\u001b[1m/\u001b[0m"
+    ],
+    [
+      2.140752,
+      "\b\u001b[0m/*"
+    ],
+    [
+      0.464295,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000176,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m "
+    ],
+    [
+      2.5e-05,
+      "git add docs/*\u001b[K\u001b[91C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10017 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:55:10 \u001b[39m\u001b[00m\u001b[49m\u001b[114D"
+    ],
+    [
+      6.1e-05,
+      "\r\r\n"
+    ],
+    [
+      0.000606,
+      "\u001b]2;git add docs/*\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.04767,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                   \r \r"
+    ],
+    [
+      0.000164,
+      "\u001b]2;rohitt@rohitt-laptop: ~/Documents/gitclones/crux-website/src\u0007"
+    ],
+    [
+      4e-05,
+      "\u001b]1;..x-website/src\u0007"
+    ],
+    [
+      0.127727,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[103C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10018 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:55:10 \u001b[39m\u001b[00m\u001b[49m\u001b[126D"
+    ],
+    [
+      0.125044,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000178,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[103C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10018 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:55:11 \u001b[39m\u001b[00m\u001b[49m\u001b[126D"
+    ],
+    [
+      6.5e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      1.400897,
+      "l"
+    ],
+    [
+      0.088191,
+      "\bls"
+    ],
+    [
+      0.171049,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000333,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m ls\u001b[K\u001b[101C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10018 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:55:12 \u001b[39m\u001b[00m\u001b[49m\u001b[124D"
+    ],
+    [
+      0.000344,
+      "\r\r\n"
+    ],
+    [
+      0.000669,
+      "\u001b]2;ls\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.00147,
+      "demo.json  docs  Gruntfile.js  maker  make-site.sh  node_modules  package.json\r\n"
+    ],
+    [
+      0.000248,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                   \r \r"
+    ],
+    [
+      0.000205,
+      "\u001b]2;rohitt@rohitt-laptop: ~/Documents/gitclones/crux-website/src\u0007\u001b]1;..x-website/src\u0007"
+    ],
+    [
+      0.188229,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[103C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10019 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:55:12 \u001b[39m\u001b[00m\u001b[49m\u001b[126D"
+    ],
+    [
+      0.13826,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000133,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[103C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10019 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:55:13 \u001b[39m\u001b[00m\u001b[49m\u001b[126D"
+    ],
+    [
+      4.9e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      1.798889,
+      "g"
+    ],
+    [
+      0.165558,
+      "\bgi"
+    ],
+    [
+      0.021165,
+      "t"
+    ],
+    [
+      0.075328,
+      " "
+    ],
+    [
+      0.477751,
+      "a"
+    ],
+    [
+      0.191413,
+      "d"
+    ],
+    [
+      0.15734,
+      "d"
+    ],
+    [
+      0.062724,
+      " "
+    ],
+    [
+      0.159089,
+      "."
+    ],
+    [
+      0.139952,
+      "."
+    ],
+    [
+      0.124902,
+      "/"
+    ],
+    [
+      0.747197,
+      "d"
+    ],
+    [
+      0.061138,
+      "o"
+    ],
+    [
+      0.146834,
+      "cs\u001b[1m/\u001b[0m"
+    ],
+    [
+      1.025242,
+      "\b\u001b[0m/*"
+    ],
+    [
+      0.35764,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000202,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ● ? ⍟4 \u001b[49m\u001b[33m\u001b[39m "
+    ],
+    [
+      4.5e-05,
+      "git add ../docs/*\u001b[K\u001b[86C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10019 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:55:18 \u001b[39m\u001b[00m\u001b[49m\u001b[109D"
+    ],
+    [
+      2.4e-05,
+      "\r\r\n"
+    ],
+    [
+      0.000663,
+      "\u001b]2;git add ../docs/*\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.020716,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                   \r \r"
+    ],
+    [
+      5.5e-05,
+      "\u001b]2;rohitt@rohitt-laptop: ~/Documents/gitclones/crux-website/src\u0007"
+    ],
+    [
+      3.8e-05,
+      "\u001b]1;..x-website/src\u0007"
+    ],
+    [
+      0.20469,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[105C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10020 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:55:18 \u001b[39m\u001b[00m\u001b[49m\u001b[128D"
+    ],
+    [
+      0.142538,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000228,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[105C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10020 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:55:19 \u001b[39m\u001b[00m\u001b[49m\u001b[128D"
+    ],
+    [
+      7.1e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      0.453584,
+      "g"
+    ],
+    [
+      0.137242,
+      "\bgi"
+    ],
+    [
+      0.069027,
+      "t"
+    ],
+    [
+      0.072449,
+      " "
+    ],
+    [
+      0.166966,
+      "s"
+    ],
+    [
+      0.143946,
+      "t"
+    ],
+    [
+      0.119317,
+      "a"
+    ],
+    [
+      0.109993,
+      "t"
+    ],
+    [
+      0.131252,
+      "u"
+    ],
+    [
+      0.102902,
+      "s"
+    ],
+    [
+      0.325466,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000216,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ? ⍟4 \u001b[49m\u001b[33m\u001b[39m git status\u001b[K\u001b[95C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10020 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:55:20 \u001b[39m\u001b[00m\u001b[49m\u001b[118D"
+    ],
+    [
+      8.6e-05,
+      "\r\r\n"
+    ],
+    [
+      0.000911,
+      "\u001b]2;git status\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.004248,
+      "On branch master\r\n"
+    ],
+    [
+      8.4e-05,
+      "Changes to be committed:\r\n  (use \"git reset HEAD <file>...\" to unstage)\r\n\r\n\t\u001b[32mmodified:   ../docs/members.html\u001b[m\r\n\t\u001b[32mnew file:   ../docs/members/srimanta-barua.html\u001b[m\r\n\t\u001b[32mmodified:   docs/members.md\u001b[m\r\n\t\u001b[32mrenamed:    docs/members/srimanta_barua.md -> docs/members/srimanta-barua.md\u001b[m\r\n\r\nUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\r\n\t\u001b[31mdemo.json\u001b[m\r\n\r\n"
+    ],
+    [
+      0.000899,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                   \r \r\u001b]2;rohitt@rohitt-laptop: ~/Documents/gitclones/crux-website/src\u0007\u001b]1;..x-website/src\u0007"
+    ],
+    [
+      0.200155,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[105C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10021 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:55:21 \u001b[39m\u001b[00m\u001b[49m\u001b[128D"
+    ],
+    [
+      0.145669,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000187,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ? ⍟4 \u001b[49m\u001b[33m\u001b[39m \u001b[K\u001b[105C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10021 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:55:21 \u001b[39m\u001b[00m\u001b[49m\u001b[128D"
+    ],
+    [
+      6.5e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      1.90106,
+      "g"
+    ],
+    [
+      0.151909,
+      "\bgi"
+    ],
+    [
+      0.113909,
+      "t"
+    ],
+    [
+      0.069607,
+      " "
+    ],
+    [
+      0.221524,
+      "c"
+    ],
+    [
+      0.088032,
+      "o"
+    ],
+    [
+      0.161677,
+      "m"
+    ],
+    [
+      0.139961,
+      "m"
+    ],
+    [
+      0.134769,
+      "i"
+    ],
+    [
+      0.102342,
+      "t"
+    ],
+    [
+      0.071123,
+      " "
+    ],
+    [
+      0.295945,
+      "-"
+    ],
+    [
+      0.14065,
+      "-"
+    ],
+    [
+      0.191875,
+      "a"
+    ],
+    [
+      0.118479,
+      "m"
+    ],
+    [
+      0.174404,
+      "e"
+    ],
+    [
+      0.427237,
+      "n"
+    ],
+    [
+      0.069587,
+      "d"
+    ],
+    [
+      0.663421,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000135,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[43m\u001b[34m \u001b[30m master ✚ ? ⍟4 \u001b[49m\u001b[33m\u001b[39m "
+    ],
+    [
+      3.3e-05,
+      "git commit --amend\u001b[K\u001b[87C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10021 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:55:26 \u001b[39m\u001b[00m\u001b[49m\u001b[110D"
+    ],
+    [
+      4.2e-05,
+      "\r\r\n"
+    ],
+    [
+      0.0006,
+      "\u001b]2;git commit --amend\u0007"
+    ],
+    [
+      1.5e-05,
+      "\u001b]1;git\u0007"
+    ],
+    [
+      0.062422,
+      "\u001b[?1049h\u001b[1;47r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b=\u001b[?1h\u001b=\u001b[?1h\u001b="
+    ],
+    [
+      0.001209,
+      "\u001b[39;49m\u001b[?25l"
+    ],
+    [
+      0.000424,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[45;99H\u001b(B\u001b[0;7m[ Reading File ]\r\u001b[3d\u001b(B\u001b[m"
+    ],
+    [
+      0.000273,
+      "\u001b[45;98H\u001b(B\u001b[0;7m[ Read 19 lines\r\u001b[22d\u001b(B\u001b[m"
+    ],
+    [
+      0.003996,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000489,
+      "\u001b[H\u001b[39;49m\u001b(B\u001b[0;7m  GNU nano 2.5.3                                       File: /home/rohitt/Documents/gitclones/crux-website/.git/COMMIT_EDITMSG                                                                                      \u001b[3;1H\u001b(B\u001b[mAdded srimanta-barua.md\r\u001b[5d# Please enter the commit message for your changes. Lines starting\r\u001b[6d# with '#' will be ignored, and an empty message aborts the commit.\r\u001b[7d#\u001b[8d\b# Author:    Srimanta Barua <srimanta.barua1@gmail.com>\r\u001b[9d# Date:\u001b[14GWed Mar 29 17:42:47 2017 +0530\r\u001b[10d#\u001b[11d\b# On branch master\r\u001b[12d# Changes to be committed:\r\u001b[13d#\u001b[9Gmodified:   ../docs/members.html\r\u001b[14d#\u001b[9Gnew file:   ../docs/members/srimanta-barua.html\r\u001b[15d#\u001b[9Gnew file:   ../docs/members/srimanta_barua.html\r\u001b[16d#\u001b[9Gmodified:   docs/members.md\r\u001b[17d#\u001b[9Gnew file:   docs/members/srimanta-barua.md\r\u001b[18d#\u001b[19d\b# Untracked files:\r\u001b[20d#\u001b[9Gdemo.json\r\u001b[21d#\u001b[46d\b\u001b(B\u001b[0;7m^G\u001b(B\u001b[m Get Help\u001b[18G\u001b(B\u001b[0;7m^O\u001b(B\u001b[m Write Out     \u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is\u001b[52G\u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text\u001b[69"
+    ],
+    [
+      3.6e-05,
+      "G\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify\u001b[86G\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\u001b[103G\u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page     \u001b(B\u001b[0;7mM-\\\u001b(B\u001b[m First Line   \u001b(B\u001b[0;7mM-W\u001b(B\u001b[m WhereIs Next \u001b(B\u001b[0;7m^^\u001b(B\u001b[m Mark Text     \u001b(B\u001b[0;7mM-}\u001b(B\u001b[m Indent Text  \u001b(B\u001b[0;7mM-U\u001b(B\u001b[m Undo\r\u001b[47d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Exit\u001b[47;18H\u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File     \u001b(B\u001b[0;7m^\\\u001b(B\u001b[m Replace\u001b[52G\u001b(B\u001b[0;7m^U\u001b(B\u001b[m Uncut Text    \u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell\u001b[86G\u001b(B\u001b[0;7m^_\u001b(B\u001b[m Go To Line    \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page     \u001b(B\u001b[0;7mM-/\u001b(B\u001b[m Last Line    \u001b(B\u001b[0;7mM-]\u001b(B\u001b[m To Bracket   \u001b(B\u001b[0;7mM-^\u001b(B\u001b[m Copy Text    \u001b(B\u001b[0;7mM-{\u001b(B\u001b[m Unindent Text\u001b(B\u001b[0;7mM-E\u001b(B\u001b[m Redo\r\u001b[3d"
+    ],
+    [
+      0.738341,
+      "A"
+    ],
+    [
+      0.33304,
+      "\u001b[4d\b"
+    ],
+    [
+      0.597689,
+      "\u001b[AA"
+    ],
+    [
+      0.855803,
+      "\b"
+    ],
+    [
+      0.706245,
+      "\u001b[1;203H\u001b(B\u001b[0;7mModified\r\u001b[3d\u001b(B\u001b[mdAdded srimanta-barua.md\rd"
+    ],
+    [
+      0.123441,
+      "oAdded srimanta-barua.md\rdo"
+    ],
+    [
+      0.392831,
+      "cAdded srimanta-barua.md\rdoc"
+    ],
+    [
+      0.080077,
+      "sAdded srimanta-barua.md\u001b[5G"
+    ],
+    [
+      0.200874,
+      ":Added srimanta-barua.md\u001b[6G"
+    ],
+    [
+      0.109432,
+      " Added srimanta-barua.md\u001b[7G"
+    ],
+    [
+      0.740978,
+      "\r\u001b[45d\u001b(B\u001b[0;7mFile Name to Write: /home/rohitt/Documents/gitclones/crux-website/.git/COMMIT_EDITMSG                                                                                                                               \u001b[46;18H\u001b(B\u001b[m\u001b[25X\u001b[46;43H\u001b(B\u001b[0;7mM-D\u001b(B\u001b[m DOS Format      \u001b[69G          \u001b[85G\u001b(B\u001b[0;7mM-A\u001b(B\u001b[m Append \u001b[103G\u001b[24X\u001b[46;127H\u001b(B\u001b[0;7mM-B\u001b(B\u001b[m Backup File\u001b[K\u001b[47;2H\u001b(B\u001b[0;7mC\u001b(B\u001b[m Cancel\u001b[47;18H\u001b[25X\u001b[47;43H\u001b(B\u001b[0;7mM-M\u001b(B\u001b[m Mac Format\u001b[28X\u001b[47;85H\u001b(B\u001b[0;7mM-P\u001b(B\u001b[m Prepend\u001b[31X\u001b[47;127H\u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Files\u001b[K\u001b[45;86H"
+    ],
+    [
+      0.319441,
+      "\u001b[?25l"
+    ],
+    [
+      6.8e-05,
+      "\u001b[45;97H\u001b[39;49m\u001b(B\u001b[m\u001b[1K \u001b(B\u001b[0;7m[ Wrote 19 lines ]\u001b(B\u001b[m\u001b[K\u001b[3;7H"
+    ],
+    [
+      0.0004,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      3.2e-05,
+      "\u001b[1;203H\u001b(B\u001b[0;7m        \u001b[46;18H^O\u001b(B\u001b[m Write Out     \u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is      \u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text\u001b[69G\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify\u001b[85G \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\u001b[103G\u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page     \u001b(B\u001b[0;7mM-\\\u001b(B\u001b[m First Line   \u001b(B\u001b[0;7mM-W\u001b(B\u001b[m WhereIs Next \u001b(B\u001b[0;7m^^\u001b(B\u001b[m Mark Text     \u001b(B\u001b[0;7mM-}\u001b(B\u001b[m Indent Text  \u001b(B\u001b[0;7mM-U\u001b(B\u001b[m Undo\u001b[47;2H\u001b(B\u001b[0;7mX\u001b(B\u001b[m Exit  \u001b[47;18H\u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File     \u001b(B\u001b[0;7m^\\\u001b(B\u001b[m Replace       \u001b(B\u001b[0;7m^U\u001b(B\u001b[m Uncut Text    \u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell      \u001b(B\u001b[0;7m^_\u001b(B\u001b[m Go To Line    \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page     \u001b(B\u001b[0;7mM-/\u001b(B\u001b[m Last Line    \u001b(B\u001b[0;7mM-]\u001b(B\u001b[m To Bracket   \u001b(B\u001b[0;7mM-^\u001b(B\u001b[m Copy Text    \u001b(B\u001b[0;7mM-{\u001b(B\u001b[m Unindent Text\u001b(B\u001b[0;7mM-E\u001b(B\u001b[m Redo\u001b[3;7H"
+    ],
+    [
+      0.314625,
+      "\r\u001b[45d\u001b[J\u001b[47;212H\u001b[47;1H\u001b[?1049l\r\u001b[?1l\u001b>"
+    ],
+    [
+      0.001286,
+      "[master 6f2c05f] docs: Added srimanta-barua.md\r\n Author: Srimanta Barua <srimanta.barua1@gmail.com>\r\n Date: Wed Mar 29 17:42:47 2017 +0530\r\n"
+    ],
+    [
+      0.000203,
+      " 5 files changed, 147 insertions(+)\r\n create mode 100644 docs/members/srimanta-barua.html\r\n create mode 100644 docs/members/srimanta_barua.html\r\n create mode 100644 src/docs/members/srimanta-barua.md\r\n"
+    ],
+    [
+      0.000403,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                   \r \r"
+    ],
+    [
+      0.000104,
+      "\u001b]2;rohitt@rohitt-laptop: ~/Documents/gitclones/crux-website/src\u0007"
+    ],
+    [
+      6.1e-05,
+      "\u001b]1;..x-website/src\u0007"
+    ],
+    [
+      0.24669,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[42m\u001b[34m \u001b[30m master ? ⍟4 \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[107C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10022 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:55:32 \u001b[39m\u001b[00m\u001b[49m\u001b[130D"
+    ],
+    [
+      0.175554,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000135,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[42m\u001b[34m \u001b[30m master ? ⍟4 \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[107C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10022 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:55:32 \u001b[39m\u001b[00m\u001b[49m\u001b[130D"
+    ],
+    [
+      3.5e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      0.758716,
+      "g"
+    ],
+    [
+      0.150185,
+      "\bgi"
+    ],
+    [
+      0.073808,
+      "t"
+    ],
+    [
+      0.09751,
+      " "
+    ],
+    [
+      0.374488,
+      "p"
+    ],
+    [
+      0.163272,
+      "u"
+    ],
+    [
+      0.16731,
+      "s"
+    ],
+    [
+      0.09597,
+      "h"
+    ],
+    [
+      0.111716,
+      " "
+    ],
+    [
+      0.136851,
+      "o"
+    ],
+    [
+      0.271857,
+      "r"
+    ],
+    [
+      0.099568,
+      "i"
+    ],
+    [
+      0.129444,
+      "g"
+    ],
+    [
+      0.073542,
+      "i"
+    ],
+    [
+      0.1045,
+      "n"
+    ],
+    [
+      0.092039,
+      " "
+    ],
+    [
+      0.150974,
+      "m"
+    ],
+    [
+      0.077376,
+      "a"
+    ],
+    [
+      0.034578,
+      "s"
+    ],
+    [
+      0.439072,
+      "t"
+    ],
+    [
+      0.111791,
+      "e"
+    ],
+    [
+      0.104935,
+      "r"
+    ],
+    [
+      0.05612,
+      " "
+    ],
+    [
+      0.216278,
+      "-"
+    ],
+    [
+      0.1188,
+      "-"
+    ],
+    [
+      0.197487,
+      "f"
+    ],
+    [
+      0.116782,
+      "o"
+    ],
+    [
+      0.087788,
+      "r"
+    ],
+    [
+      0.185545,
+      "c"
+    ],
+    [
+      0.08639,
+      "e"
+    ],
+    [
+      0.467637,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000211,
+      "\u001b[?2004l\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[42m\u001b[34m \u001b[30m master ? ⍟4 \u001b[49m\u001b[32m\u001b[39m git push origin master --force\u001b[K\u001b[77C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10022 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:55:37 \u001b[39m\u001b[00m\u001b[49m\u001b[100D"
+    ],
+    [
+      9.4e-05,
+      "\r\r\n"
+    ],
+    [
+      0.000722,
+      "\u001b]2;git push origin master --force\u0007\u001b]1;git\u0007"
+    ],
+    [
+      4.209995,
+      "Username for 'https://github.com': "
+    ],
+    [
+      0.586217,
+      "a"
+    ],
+    [
+      0.131309,
+      "e"
+    ],
+    [
+      0.096167,
+      "r"
+    ],
+    [
+      0.136179,
+      "o"
+    ],
+    [
+      0.48857,
+      "3"
+    ],
+    [
+      0.091845,
+      "1"
+    ],
+    [
+      0.277376,
+      "a"
+    ],
+    [
+      0.146612,
+      "e"
+    ],
+    [
+      0.190838,
+      "r"
+    ],
+    [
+      0.084264,
+      "o"
+    ],
+    [
+      0.236573,
+      "\r\n"
+    ],
+    [
+      0.034209,
+      "Password for 'https://aero31aero@github.com': "
+    ],
+    [
+      2.017958,
+      "\r\n"
+    ],
+    [
+      5.0885,
+      "Counting objects: 11, done.\r\n"
+    ],
+    [
+      0.002543,
+      "Delta compression using up to 4 threads.\r\n"
+    ],
+    [
+      6.5e-05,
+      "Compressing objects:   9% (1/11)   \r"
+    ],
+    [
+      9.6e-05,
+      "Compressing objects:  18% (2/11)   \r"
+    ],
+    [
+      0.000145,
+      "Compressing objects:  27% (3/11)   \r"
+    ],
+    [
+      5.9e-05,
+      "Compressing objects:  36% (4/11)   \r"
+    ],
+    [
+      0.000101,
+      "Compressing objects:  45% (5/11)   \r"
+    ],
+    [
+      4.2e-05,
+      "Compressing objects:  54% (6/11)   \r"
+    ],
+    [
+      4.8e-05,
+      "Compressing objects:  63% (7/11)   \r"
+    ],
+    [
+      4.5e-05,
+      "Compressing objects:  72% (8/11)   \r"
+    ],
+    [
+      3.6e-05,
+      "Compressing objects:  81% (9/11)   \r"
+    ],
+    [
+      3.2e-05,
+      "Compressing objects:  90% (10/11)   \r"
+    ],
+    [
+      3.5e-05,
+      "Compressing objects: 100% (11/11)   \r"
+    ],
+    [
+      5.4e-05,
+      "Compressing objects: 100% (11/11), done.\r\n"
+    ],
+    [
+      0.000206,
+      "Writing objects:   9% (1/11)   \r"
+    ],
+    [
+      6.7e-05,
+      "Writing objects:  18% (2/11)   \r"
+    ],
+    [
+      0.000113,
+      "Writing objects:  27% (3/11)   \r"
+    ],
+    [
+      8.2e-05,
+      "Writing objects:  36% (4/11)   \r"
+    ],
+    [
+      8.3e-05,
+      "Writing objects:  45% (5/11)   \r"
+    ],
+    [
+      0.000345,
+      "Writing objects:  54% (6/11)   \r"
+    ],
+    [
+      2.9e-05,
+      "Writing objects:  63% (7/11)   \r"
+    ],
+    [
+      6.2e-05,
+      "Writing objects:  72% (8/11)   \r"
+    ],
+    [
+      5.9e-05,
+      "Writing objects:  81% (9/11)   \r"
+    ],
+    [
+      6.1e-05,
+      "Writing objects:  90% (10/11)   \r"
+    ],
+    [
+      0.000233,
+      "Writing objects: 100% (11/11)   \r"
+    ],
+    [
+      3.4e-05,
+      "Writing objects: 100% (11/11), 2.91 KiB | 0 bytes/s, done.\r\nTotal 11 (delta 7), reused 0 (delta 0)\r\n"
+    ],
+    [
+      0.671117,
+      "remote: Resolving deltas:   0% (0/7)   \u001b[K\r"
+    ],
+    [
+      0.00068,
+      "remote: Resolving deltas:  14% (1/7)   \u001b[K\rremote: Resolving deltas:  28% (2/7)   \u001b[K\r"
+    ],
+    [
+      4.1e-05,
+      "remote: Resolving deltas:  42% (3/7)   \u001b[K\r"
+    ],
+    [
+      0.31866,
+      "remote: Resolving deltas:  57% (4/7)   \u001b[K\rremote: Resolving deltas:  71% (5/7)   \u001b[K\rremote: Resolving deltas:  85% (6/7)   \u001b[K\rremote: Resolving deltas: 100% (7/7)   \u001b[K\rremote: Resolving deltas: 100% (7/7), completed with 6 local objects.\u001b[K\r\n"
+    ],
+    [
+      1.163847,
+      "To https://github.com/CRUx-BPHC/CRUx-BPHC.github.io.git\r\n + e22b81a...6f2c05f master -> master"
+    ],
+    [
+      0.000241,
+      " (forced update)\r\n"
+    ],
+    [
+      0.176815,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                   \r \r"
+    ],
+    [
+      0.000142,
+      "\u001b]2;rohitt@rohitt-laptop: ~/Documents/gitclones/crux-website/src\u0007"
+    ],
+    [
+      2.3e-05,
+      "\u001b]1;..x-website/src\u0007"
+    ],
+    [
+      0.442866,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[42m\u001b[34m \u001b[30m master ? ⍟4 \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[107C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10023 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:55:54 \u001b[39m\u001b[00m\u001b[49m\u001b[130D"
+    ],
+    [
+      0.149872,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.00024,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mrohitt@rohitt-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/gitclones/crux-website/src \u001b[42m\u001b[34m \u001b[30m master ? ⍟4 \u001b[49m\u001b[32m\u001b[39m "
+    ],
+    [
+      1.7e-05,
+      "\u001b[K\u001b[107C\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10023 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 17:55:54 \u001b[39m\u001b[00m\u001b[49m\u001b[130D"
+    ],
+    [
+      7.2e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      1.540322,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ],
+  "command": null
+}
