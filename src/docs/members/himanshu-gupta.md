@@ -13,6 +13,23 @@ The project is on our college's [Technopedia](https://technopediabphc.wordpress.
 
 My first project in python and felt like many needed these.Just type in the song name and it will search through Youtube to find the desired song.Source Code is on [Github](https://github.com/him1411/youtube-mp3-downloader)
 
+
+### All Purpose Downloader
+
+An extension of of the mp3 downloader which was a crude and early effort. This application/ project incorporates following features: 
+1) Incorporates multi-threading and splits a large file into a number of pieces depending on the user
+2) supports a feature of pausing and resuming the downloads any number of times
+3) consistently writes the files to hard drive from from RAM hence allowing machines with low RAM cpacity to download lage sized files
+4) written completely in python hence can be used in linux, mac and windows
+5) has very little dependencies on python libraries
+6) Downloading speed can be improved dramatically (upto 5 folds) if used over a LAN
+
+
+### Study of MNIST digits 
+
+A convolutional neural network which has about 95 - 99% accuracy for mnist data set for hand written digits. They work in small filters across the input image and the filters are reused in detecting patterns in the input image because of which the CNNs are quicker to train.The input image is processed in the first convolutional layer using the filter-weights.Source Code is on [Github](https://github.com/him1411/neural-net)
+
+
 ## Skills
 
 * **Wireless attacks via Kali Linux** - Basic
@@ -24,6 +41,6 @@ My first project in python and felt like many needed these.Just type in the song
 You can find me on:
 
 * Github: [him1411](https://github.com/him1411)
-* Facebook: [Himasnhu Gupta](https://www.facebook.com/him.gupta95)
-* Email: [himjan1416@gmail.com](mailto:himjan1416@gmail.com)
-* LinkedIn: [Hiamsnhu Gupta](https://www.linkedin.com/in/himanshu-gupta-907377124?trk=hp-identity-photo)
+* Facebook: [Himanshu Gupta](https://www.facebook.com/him.gupta95)
+* Email: [f20150339@hyderabad.bits-pilani.ac.in](mailto:f20150339@hyderabad.bits-pilani.ac.in)
+* LinkedIn: [Himanshu Gupta](https://www.linkedin.com/in/himanshu-gupta-907377124?trk=hp-identity-photo)
