@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>CRUx | The programming and computing club of BITS-Pilani, Hyderabad Campus</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="https://kit.fontawesome.com/ea24442269.js"></script>
+    <style>
+        body {
+            background: #fafaff;
+            color: rgb(35, 34, 50);
+            font-family: 'Roboto', sans-serif;
+        }
+
+        .container {
+            margin-top: 50px;
+            margin-bottom: 50px;
+        }
+
+        .btn-primary {
+            background: rgb(22, 74, 158);
+            border-color: rgb(22, 74, 158);
+        }
+
+        .btn-primary:hover,
+        .btn-primary:active,
+        .btn-primary:focus {
+            background: rgb(2, 33, 68);
+            border-color: rgb(2, 33, 68);
+        }
+
+        /*
+        rgb(22, 74, 158)
+        */
+        .alert {
+            position: fixed;
+            top: 200px;
+            left: 25%;
+            width: 50%;
+            max-height: 400px;
+            overflow-y: auto;
+            padding: 50px;
+            background: white;
+            border-radius: 5px;
+            box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.3);
+            outline: none;
+            background: white;
+            z-index: 300;
+            display: none;
+            border: 20px solid white;
+
+        }
+
+        .feature {
+            font-style: italic;
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .feature h1 {
+            font-size: 18px;
+            color: grey;
+        }
+
+        .feature h1 .feature-heading {
+            color: rgb(22, 74, 158);
+            font-style: normal;
+            font-size: 80px;
+            font-weight: 900;
+            margin-top: -10px;
+        }
+
+        .alert:focus {
+            box-shadow: 0px 0px 100px 0px rgba(87, 86, 97, 0.5);
+        }
+
+        .members-feature img {
+            width: 100%;
+            border-radius: 5px;
+        }
+
+        .logo {
+            text-align: center;
+        }
+
+        .logo img {
+            width: 200px;
+            max-width: 75%;
+        }
+
+        h3,
+        h2 {
+            font-weight: 800;
+            color: rgb(22, 74, 158);
+        }
+
+        .projects {
+            margin-top: 30px;
+        }
+
+        .project-item {
+            margin-bottom: 30px;
+        }
+
+        .project-item .col-4 img {
+            width: 100%;
+            padding: 30px;
+            padding-top: 0px;
+        }
+    </style>
+    <script>
+        function alert(str) {
+            $(".alert").html(str);
+            $(".alert").fadeIn();
+            console.log(`Alerted:\n${str}`);
+            $(".alert").focus();
+
+        }
+
+        $(document).on("keydown", function (e) {
+            if (e.keyCode === 27) {
+                $(".alert").fadeOut();
+            }
+        })
+    </script>
+</head>
+
+<body>
+    <div class="container">
+
+        <div class="logo">
+            <img src="img/logo.svg" alt="CRUx Logo">
+        </div>
+        <div class="feature">
+            <h1>
+                Welcome to the official website of
+                <div class="feature-heading">CRUx</div>
+            </h1>
+        </div>
+        <hr />
+        <br>
+        <div class="row">
+            <div class="col-md-6 members-feature">
+                <img src="img/members-feature-min.jpg"
+                    alt="Group photograph of CRUx members sittin on a rock formation.">
+            </div>
+            <div class="col-md-6">
+                <p>
+                    CRUx is the official programming and computing club of BITS-Pilani, Hyderabad Campus.
+                    Consectetur adipisicing elit. Aliquam corporis quam officia dolorem est hic distinctio nostrum
+                    voluptas
+                    aperiam doloribus error deserunt, modi eos? Odit laborum aperiam repellat perspiciatis cumque.
+                    Lorem,
+                    ipsum
+                    dolor sit amet consectetur adipisicing elit. Natus mollitia rerum sequi qui nisi nesciunt dolorum
+                    iste,
+                    magnam quam accusantium itaque, nulla facere quisquam vel labore id ratione voluptas est. Lorem
+                    ipsum
+                    dolor
+                    sit amet consectetur adipisicing elit. Eum numquam unde, ipsum cumque laborum harum soluta
+                    repellendus.
+                    <br><br>
+                    <a href="contact.html" class="btn btn-primary"><i class="fa fa-envelope"></i> &nbsp;Contact us</a>
+                </p>
+            </div>
+        </div>
+
+        <br>
+        <hr>
+        <div class="row">
+            <div class="col-md-4">
+                <h3><i class="fa fa-info-circle"></i> About</h3>
+                The members of CRUx have been actively developing the campus technical culture since it was incepted in
+                2010. Find out more about our club, it's origins and the future. <br><br>
+                <div class="btn btn-primary">About Us</div>
+            </div>
+            <div class="col-md-4">
+                <h3><i class="fa fa-users"></i> Members</h3>
+                CRUx is what it is today because of its amazing members. We are proud of the diverse talents of our
+                members and the amazing work they do. Get more information about members in their own words. <br><br>
+                <div class="btn btn-primary">Our Members</div>
+            </div>
+            <div class="col-md-4">
+                <h3><i class="fa fa-star"></i> Inductions</h3>
+                CRUx inducts new members every semester. We are proud of our very rigorous and selective process so
+                that we can find the very best talent from the campus. Head here to see if we are inducting. <br><br>
+                <div class="btn btn-primary">Inductuons Portal</div>
+            </div>
+        </div>
+        <br>
+        <hr>
+        <br>
+        <div class="row">
+            <div class="col">
+                <h2 class="text-center">Our Technical Projects</h2>
+                <div class="row projects">
+                    <div class="col-md-4">As a technical club, we have a number of open-source programming projects that
+                        we develop, both for learning and for the use by the general body of the campus. Some of out
+                        projects are featured on the right. For a complete list, you can head to our github profile.
+                        <br><br>
+                        <div class="btn btn-secondary"><i class="fab fa-github"></i> CRUx Github Page</div>
+                    </div>
+
+                    <div class="col-md-8">
+                        <div class="row project-item">
+                            <div class="col-4"><img src="img/bits-pilani.png" alt=""></div>
+                            <div class="col-8">
+                                <h3>CMS App</h3>
+                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore
+                                exercitationem amet ut saepe voluptatibus fugiat quibusdam reprehenderit rerum dicta,
+                                molestiae, dolorem necessitatibus quam aliquam dolore nulla. Consequuntur eos
+                                consectetur officia. <a href="#">Learn more...</a>
+                            </div>
+                        </div>
+                        <div class="row project-item">
+                            <div class="col-4"><img src="img/fest-manager.jpeg" alt=""></div>
+                            <div class="col-8">
+                                <h3>Fest Manager</h3>
+                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore
+                                exercitationem amet ut saepe voluptatibus fugiat quibusdam reprehenderit rerum dicta,
+                                molestiae, dolorem necessitatibus quam aliquam dolore nulla. Consequuntur eos
+                                consectetur officia.<a href="#">Learn more...</a>
+                            </div>
+                        </div>
+                        <div class="row project-item">
+                            <div class="col-4"><img src="img/logo.svg" alt=""></div>
+                            <div class="col-8">
+                                <h3>Batchsnaps Sorter</h3>
+                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore
+                                exercitationem amet ut saepe voluptatibus fugiat quibusdam reprehenderit rerum dicta,
+                                molestiae, dolorem necessitatibus quam aliquam dolore nulla. Consequuntur eos
+                                consectetur officia.<a href="#">Learn more...</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+
+
+
+
+        <div class="alert" tabindex="1">No Content</div>
+
+
+    </div>
+    <script src="js/learn.js"></script>
+</body>
+
+</html>
