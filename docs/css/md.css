@@ -1,0 +1,17 @@
+.md h1,h2,h3{
+    margin:20px 0px 20px 0px;
+    color:black;
+}
+.md h1{
+    font-size:50px;
+}
+.md h2{
+    font-size:30px;
+    border-bottom:1px dashed rgb(190,190,190);
+}
+.md h3{
+    font-size:20px;
+}
+.md h4{
+    font-size:15px;
+}
