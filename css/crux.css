@@ -1,0 +1,261 @@
+        body {
+            background: #fafaff;
+            color: rgb(35, 34, 50);
+            font-family: 'Roboto', sans-serif;
+        }
+
+        .container {
+            margin-top: 50px;
+            margin-bottom: 50px;
+        }
+
+        .btn-primary {
+            background: rgb(22, 74, 158);
+            border-color: rgb(22, 74, 158);
+        }
+
+        .btn-primary:hover,
+        .btn-primary:active,
+        .btn-primary:focus {
+            background: rgb(2, 33, 68);
+            border-color: rgb(2, 33, 68);
+        }
+
+        /*
+        rgb(22, 74, 158)
+        */
+        .alert {
+            position: fixed;
+            top: 200px;
+            left: 25%;
+            width: 50%;
+            max-height: 400px;
+            overflow-y: auto;
+            padding: 50px;
+            background: white;
+            border-radius: 5px;
+            box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.3);
+            outline: none;
+            background: white;
+            z-index: 300;
+            display: none;
+            border: 20px solid white;
+
+        }
+
+        .feature {
+            font-style: italic;
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .feature h1 {
+            font-size: 18px;
+            color: grey;
+        }
+
+        .feature h1 .feature-heading {
+            color: rgb(22, 74, 158);
+            font-style: normal;
+            font-size: 80px;
+            font-weight: 900;
+            margin-top: -10px;
+        }
+
+        .alert:focus {
+            box-shadow: 0px 0px 100px 0px rgba(87, 86, 97, 0.5);
+        }
+
+        .members-feature img {
+            width: 100%;
+            border-radius: 5px;
+        }
+
+        .logo {
+            text-align: center;
+        }
+
+        .logo img {
+            width: 200px;
+            max-width: 75%;
+        }
+
+        h3,
+        h2 {
+            font-weight: 800;
+            color: rgb(22, 74, 158);
+        }
+
+        .projects {
+            margin-top: 30px;
+        }
+
+        .project-item {
+            margin-bottom: 30px;
+        }
+
+        .project-item .col-4 img {
+            width: 100%;
+            padding: 30px;
+            padding-top: 0px;
+        }
+
+        .footer {
+            color: rgb(150, 150, 150);
+        }
+
+        @media (max-width : 800px) {
+            .container {
+                margin-top: 10px;
+            }
+
+            .logo img {
+                width: 100px;
+            }
+
+            .members-feature {
+                margin-bottom: 20px;
+            }
+
+            .links div {
+                margin-bottom: 20px;
+            }
+
+            .project-item .col-4 img {
+                padding: 0px;
+            }
+
+            .projects .col-md-8 {
+                margin-top: 50px;
+            }
+        }        body {
+            background: #fafaff;
+            color: rgb(35, 34, 50);
+            font-family: 'Roboto', sans-serif;
+        }
+
+        .container {
+            margin-top: 50px;
+            margin-bottom: 50px;
+        }
+
+        .btn-primary {
+            background: rgb(22, 74, 158);
+            border-color: rgb(22, 74, 158);
+        }
+
+        .btn-primary:hover,
+        .btn-primary:active,
+        .btn-primary:focus {
+            background: rgb(2, 33, 68);
+            border-color: rgb(2, 33, 68);
+        }
+
+        /*
+        rgb(22, 74, 158)
+        */
+        .alert {
+            position: fixed;
+            top: 200px;
+            left: 25%;
+            width: 50%;
+            max-height: 400px;
+            overflow-y: auto;
+            padding: 50px;
+            background: white;
+            border-radius: 5px;
+            box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.3);
+            outline: none;
+            background: white;
+            z-index: 300;
+            display: none;
+            border: 20px solid white;
+
+        }
+
+        .feature {
+            font-style: italic;
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .feature h1 {
+            font-size: 18px;
+            color: grey;
+        }
+
+        .feature h1 .feature-heading {
+            color: rgb(22, 74, 158);
+            font-style: normal;
+            font-size: 80px;
+            font-weight: 900;
+            margin-top: -10px;
+        }
+
+        .alert:focus {
+            box-shadow: 0px 0px 100px 0px rgba(87, 86, 97, 0.5);
+        }
+
+        .members-feature img {
+            width: 100%;
+            border-radius: 5px;
+        }
+
+        .logo {
+            text-align: center;
+        }
+
+        .logo img {
+            width: 200px;
+            max-width: 75%;
+        }
+
+        h3,
+        h2 {
+            font-weight: 800;
+            color: rgb(22, 74, 158);
+        }
+
+        .projects {
+            margin-top: 30px;
+        }
+
+        .project-item {
+            margin-bottom: 30px;
+        }
+
+        .project-item .col-4 img {
+            width: 100%;
+            padding: 30px;
+            padding-top: 0px;
+        }
+
+        .footer {
+            color: rgb(150, 150, 150);
+        }
+
+        @media (max-width : 800px) {
+            .container {
+                margin-top: 10px;
+            }
+
+            .logo img {
+                width: 100px;
+            }
+
+            .members-feature {
+                margin-bottom: 20px;
+            }
+
+            .links div {
+                margin-bottom: 20px;
+            }
+
+            .project-item .col-4 img {
+                padding: 0px;
+            }
+
+            .projects .col-md-8 {
+                margin-top: 50px;
+            }
+        }
