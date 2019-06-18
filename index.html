@@ -140,8 +140,9 @@
             .container {
                 margin-top: 10px;
             }
-            .logo img{
-                width:100px;
+
+            .logo img {
+                width: 100px;
             }
 
             .members-feature {
@@ -155,25 +156,36 @@
             .project-item .col-4 img {
                 padding: 0px;
             }
-            .projects .col-md-8{
-                margin-top:50px;
+
+            .projects .col-md-8 {
+                margin-top: 50px;
             }
         }
     </style>
     <script>
-        function alert(str) {
-            $(".alert").html(str);
-            $(".alert").fadeIn();
-            console.log(`Alerted:\n${str}`);
-            $(".alert").focus();
+        $(document).ready(function () {
+            $(".feature-heading").on("click", function () {
+                var name = ["c", "r", "u", "x"];
+                var modified = "";
+                for (letter of name) {
+                    var probability = Math.random();
+                    if (probability > 0.9) {
+                        modified = "CROoks Cloob";
+                        break;
+                    }
+                    if (probability > 0.5) {
+                        letter = letter.toUpperCase();
+                        modified += letter;
+                    } else {
+                        modified += letter;
+                    }
 
-        }
-
-        $(document).on("keydown", function (e) {
-            if (e.keyCode === 27) {
-                $(".alert").fadeOut();
-            }
+                }
+                $(".feature-heading").text(modified);
+            })
         })
+
+
     </script>
 </head>
 
