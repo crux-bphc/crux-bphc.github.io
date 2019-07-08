@@ -14,9 +14,7 @@
             border-color: rgb(22, 74, 158);
         }
 
-        .btn-primary:hover,
-        .btn-primary:active,
-        .btn-primary:focus {
+        .btn-primary:hover, .btn-primary:active, .btn-primary:focus {
             background: rgb(2, 33, 68);
             border-color: rgb(2, 33, 68);
         }
@@ -24,6 +22,7 @@
         /*
         rgb(22, 74, 158)
         */
+
         .alert {
             position: fixed;
             top: 200px;
@@ -40,7 +39,6 @@
             z-index: 300;
             display: none;
             border: 20px solid white;
-
         }
 
         .feature {
@@ -72,16 +70,17 @@
         }
 
         .logo {
-            text-align: center;
+            text-align: center !important;
         }
 
         .logo img {
-            width: 200px;
-            max-width: 75%;
+            width: 200px !important;
+            max-width: 75% !important;
+            display: inline;
+            border: 0px;
         }
 
-        h3,
-        h2 {
+        h3, h2 {
             font-weight: 800;
             color: rgb(22, 74, 158);
         }
@@ -104,31 +103,28 @@
             color: rgb(150, 150, 150);
         }
 
-        @media (max-width : 800px) {
+        @media (max-width: 800px) {
             .container {
                 margin-top: 10px;
             }
-
             .logo img {
                 width: 100px;
             }
-
             .members-feature {
                 margin-bottom: 20px;
             }
-
             .links div {
                 margin-bottom: 20px;
             }
-
             .project-item .col-4 img {
                 padding: 0px;
             }
-
             .projects .col-md-8 {
                 margin-top: 50px;
             }
-        }        body {
+        }
+
+        body {
             background: #fafaff;
             color: rgb(35, 34, 50);
             font-family: 'Roboto', sans-serif;
@@ -144,9 +140,7 @@
             border-color: rgb(22, 74, 158);
         }
 
-        .btn-primary:hover,
-        .btn-primary:active,
-        .btn-primary:focus {
+        .btn-primary:hover, .btn-primary:active, .btn-primary:focus {
             background: rgb(2, 33, 68);
             border-color: rgb(2, 33, 68);
         }
@@ -154,6 +148,7 @@
         /*
         rgb(22, 74, 158)
         */
+
         .alert {
             position: fixed;
             top: 200px;
@@ -170,7 +165,6 @@
             z-index: 300;
             display: none;
             border: 20px solid white;
-
         }
 
         .feature {
@@ -210,8 +204,7 @@
             max-width: 75%;
         }
 
-        h3,
-        h2 {
+        h3, h2 {
             font-weight: 800;
             color: rgb(22, 74, 158);
         }
@@ -234,27 +227,22 @@
             color: rgb(150, 150, 150);
         }
 
-        @media (max-width : 800px) {
+        @media (max-width: 800px) {
             .container {
                 margin-top: 10px;
             }
-
             .logo img {
                 width: 100px;
             }
-
             .members-feature {
                 margin-bottom: 20px;
             }
-
             .links div {
                 margin-bottom: 20px;
             }
-
             .project-item .col-4 img {
                 padding: 0px;
             }
-
             .projects .col-md-8 {
                 margin-top: 50px;
             }
