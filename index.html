@@ -1,3 +1,6 @@
+---
+# Do not remove this
+---
 <!DOCTYPE html>
 <html lang="en">
 
@@ -5,32 +8,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Crux | The programming and computing club of BITS-Pilani, Hyderabad Campus</title>
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
-    <script src="js/jquery.js"></script>
-    <script src="js/bootstrap.js"></script>
-    <script src="https://kit.fontawesome.com/ea24442269.js"></script>
-    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/manifest.json">
-    <meta name="msapplication-TileColor" content="rgb(22, 74, 158)">
-    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
-    <meta name="theme-color" content="rgb(22, 74, 158)">
-
-    <link rel="stylesheet" href="./css/crux.css">
-
+    <title>Crux | The programming and computing club of BITS-Pilani, Hyderabad
+        Campus</title>
+    {% include dependencies.html %}
     <script>
         $(document).ready(function () {
             $(".feature-heading").on("click", function () {
@@ -53,17 +33,13 @@
                 $(".feature-heading").text(modified);
             })
         })
-
-
     </script>
 </head>
 
 <body>
     <div class="container">
 
-        <div class="logo">
-            <img src="img/logo.svg" alt="Crux Logo">
-        </div>
+        {% include header.html %}
         <div class="feature">
             <h1>
                 Welcome to the official website of
@@ -79,15 +55,21 @@
             </div>
             <div class="col-md-6">
                 <p>
-                    Crux is the Programming and Computing club for BITS Hyderabad. From a small club of few passionate
-                    coders since it's inception in 2010, we have grown by an enormous amount. During this time, we have
-                    aimed to kindle a passion for computers and better the programming culture of the students of our
-                    college. We also strive to make things on campus easier and more convenient via the means of code.
+                    Crux is the Programming and Computing club for BITS
+                    Hyderabad. From a small club of few passionate
+                    coders since it's inception in 2010, we have grown by an
+                    enormous amount. During this time, we have
+                    aimed to kindle a passion for computers and better the
+                    programming culture of the students of our
+                    college. We also strive to make things on campus easier and
+                    more convenient via the means of code.
                     <br><br>
-                    The post holders for this year ( 2019-20 ) are Ujjwal Raizada - President, Krut Patel - Secretary
+                    The post holders for this year ( 2019-20 ) are Ujjwal
+                    Raizada - President, Krut Patel - Secretary
                     and Kunal Verma - Secretary.
                     <br><br>
-                    <a href="./contact/index.html" class="btn btn-primary"><i class="fa fa-envelope"></i> &nbsp;Connect
+                    <a href="./contact" class="btn btn-primary"><i
+                            class="fa fa-envelope"></i> &nbsp;Connect
                         with
                         us</a>
                 </p>
@@ -99,23 +81,31 @@
         <div class="row links">
             <div class="col-md-4">
                 <h3><i class="fa fa-info-circle"></i> About</h3>
-                The members of Crux have been actively developing the campus technical culture since it was incepted in
-                2010. Find out more about our club, it's origins and the future. <br><br>
-                <a class="btn btn-primary" href="/about/index.html">About Us</a>
+                The members of Crux have been actively developing the campus
+                technical culture since it was incepted in
+                2010. Find out more about our club, it's origins and the future.
+                <br><br>
+                <a class="btn btn-primary" href="/about">About Us</a>
             </div>
             <div class="col-md-4">
                 <h3><i class="fa fa-users"></i> Members</h3>
-                Crux is what it is today because of its amazing members. We are proud of the diverse talents of our
-                members and the amazing work they do. Get more information about members in their own words. <br><br>
-                <a class="btn btn-primary" href="/members/index.html">Our Members</a>
+                Crux is what it is today because of its amazing members. We are
+                proud of the diverse talents of our
+                members and the amazing work they do. Get more information about
+                members in their own words. <br><br>
+                <a class="btn btn-primary" href="/members">Our
+                    Members</a>
 
             </div>
             <div class="col-md-4">
                 <h3><i class="fa fa-star"></i> Activities</h3>
-                Crux conducts varoius workshops, code-sprints, contests and more through out the year. All of our
-                activites are open for the campus students, and we also conduct open-for-all activites. Head to our
+                Crux conducts varoius workshops, code-sprints, contests and more
+                through out the year. All of our
+                activites are open for the campus students, and we also conduct
+                open-for-all activites. Head to our
                 facebook page to see them all. <br><br>
-                <a class="btn btn-primary" href="https://www.facebook.com/cruxbphc/">Club Activities <i
+                <a class="btn btn-primary"
+                    href="https://www.facebook.com/cruxbphc/">Club Activities <i
                         class="fa fa-external-link-alt"></i>
                 </a>
             </div>
@@ -127,51 +117,69 @@
             <div class="col">
                 <h2 class="text-center">Our Technical Projects</h2>
                 <div class="row projects">
-                    <div class="col-md-4">As a technical club, we have a number of open-source programming projects that
-                        we develop, both for learning and for the use by the general body of the campus. Some of out
-                        projects are featured on the right. For a complete list, you can head to our github profile.
+                    <div class="col-md-4">As a technical club, we have a number
+                        of open-source programming projects that
+                        we develop, both for learning and for the use by the
+                        general body of the campus. Some of out
+                        projects are featured on the right. For a complete list,
+                        you can head to our github profile.
                         <br><br>
-                        <a class="btn btn-secondary" href="https://github.com/crux-bphc"><i class="fab fa-github"></i>
+                        <a class="btn btn-secondary"
+                            href="https://github.com/crux-bphc"><i
+                                class="fab fa-github"></i>
                             Crux Github Page</a>
                     </div>
 
                     <div class="col-md-8">
                         <div class="row project-item">
-                            <div class="col-4"><img src="img/bits-pilani.png" alt=""></div>
+                            <div class="col-4"><img src="img/bits-pilani.png"
+                                    alt=""></div>
                             <div class="col-8">
                                 <h3>CMS App</h3>
-                                It is the Android version of the CMS BPHC app. The app uses standard Moodle endpoints
-                                from the server hosted at the CMS website. With features like Token based login, View
+                                It is the Android version of the CMS BPHC app.
+                                The app uses standard Moodle endpoints
+                                from the server hosted at the CMS website. With
+                                features like Token based login, View
                                 list of enrolled courses,
                                 Search and register new courses,
-                                Download course content once; access locally any time,
+                                Download course content once; access locally any
+                                time,
                                 Notifications for new content
 
-                                <a href="https://github.com/crux-bphc/CMS-Android/">Learn
+                                <a
+                                    href="https://github.com/crux-bphc/CMS-Android/">Learn
                                     more...</a>
                             </div>
                         </div>
                         <div class="row project-item">
-                            <div class="col-4"><img src="img/fest-manager.jpeg" alt=""></div>
+                            <div class="col-4"><img src="img/fest-manager.jpeg"
+                                    alt=""></div>
                             <div class="col-8">
                                 <h3>Fest Manager</h3>
-                                Fest Manager is a Single Page Express Application that can be used to easily deploy
-                                websites for college fests. The following Android apps also depend on fest-manager as a
+                                Fest Manager is a Single Page Express
+                                Application that can be used to easily deploy
+                                websites for college fests. The following
+                                Android apps also depend on fest-manager as a
                                 backend server:
 
                                 Pearl,
                                 Arena
-                                <a href="https://github.com/crux-bphc/fest-manager">Learn
+                                <a
+                                    href="https://github.com/crux-bphc/fest-manager">Learn
                                     more...</a>
                             </div>
                         </div>
                         <div class="row project-item">
-                            <div class="col-4"><img src="img/logo.svg" alt=""></div>
+                            <div class="col-4"><img src="img/logo.svg" alt="">
+                            </div>
                             <div class="col-8">
                                 <h3>Batchsnaps Sorter</h3>
-                                Find all images that have your face in it. This project makes the distribution of
-                                batchsnaps easier, both for students, and various clubs.
-                                <a href="https://github.com/crux-bphc/batchsnap-sorter">Learn
+                                Find all images that have your face in it. This
+                                project makes the distribution of
+                                batchsnaps easier, both for students, and
+                                various clubs.
+                                <a
+                                    href="https://github.com/crux-bphc/batchsnap-sorter">Learn
                                     more...</a>
                             </div>
                         </div>
@@ -180,25 +188,8 @@
 
             </div>
         </div>
-        <br>
-        <hr>
-        <br>
-        <div class="row">
-            <div class="col footer">
-                &copy; 2019 Crux BPHC. All rights reserved. This website is released under the MIT License. Created by
-                Divyanshu Agrawal.
-            </div>
-        </div>
+        {% include footer.html %}
 
-
-
-
-
-        <div class="alert" tabindex="1">No Content</div>
-
-
-    </div>
-    <script src="js/learn.js"></script>
 </body>
 
 </html>

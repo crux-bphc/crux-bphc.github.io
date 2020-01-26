@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }} | CRUx Members</title>
+  {% include dependencies.html %}
+</head>
+
+<body>
+  <div class="container md">
+    {% include header.html %}
+    <div class="feature">
+      <h1>
+        <div class="feature-heading">{{page.title}}</div>
+      </h1>
+    </div>
+    <hr />
+    <a href="./"> <i class="fa fa-arrow-left"></i> Back members list</a>
+    <br />
+    <br />
+    <div class="member-details">
+      {{ content }}
+    </div>
+    {% include footer.html %}
+
+  </div>
+</body>
+
+</html>

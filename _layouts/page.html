@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }} | CRUx</title>
+  {% include dependencies.html %}
+</head>
+
+<body>
+  <div class="container">
+    {% include header.html %}
+    <div class="feature">
+      <h1>
+        <div class="feature-heading">{{page.title}}</div>
+      </h1>
+    </div>
+    <hr />
+    <a href="/"> <i class="fa fa-arrow-left"></i> Back to home</a>
+    <br />
+    <br />
+
+    {{ content }}
+    {% include footer.html %}
+  </div>
+
+</body>
+
+</html>

@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }} | CRUx Members</title>
+  {% include dependencies.html %}
+</head>
+
+<body>
+  <div class="container md">
+    {% include header.html %}
+    <div class="feature">
+      <h1>
+        <div class="feature-heading">Members</div>
+      </h1>
+    </div>
+    <hr />
+    <a href="/"> <i class="fa fa-arrow-left"></i> Back to home</a>
+    <br />
+    <br />
+    <div class="member-list">
+      <h4>You can find out more about our members from here. </h4>
+      <div class="card" style="width: 18rem;">
+        <ul class="list-group list-group-flush">
+          {{content}}
+        </ul>
+      </div>
+    </div>
+    {% include footer.html %}
+
+  </div>
+</body>
+
+</html>
