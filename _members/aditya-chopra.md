@@ -23,6 +23,6 @@ Contact
 
 You can contact me through the following media:
 
-*   Email: adichopra108@gmail.com, f20190178@hyderabad.bits-pilani.ac.in
-*   Github: [abhijeetviswa](https://github.com/adichopra108)
+*   Email: adichopra108@gmail.com
+*   Github: [adichopra108](https://github.com/adichopra108)
 *   Website [Aditya Chopra](https://adichopra108.github.io/adichopra)
