@@ -8,7 +8,7 @@ Hi, I am an undergraduate student of the 2019 batch at BITS Pilani Hyderabad Cam
 
 ## Projects
 
-* __CMS iOS App:__ This is the iOS version of the CMS BPHC App. It uses the Moodle API Endpoints to get data. It uses the Realm database for offline caching of course modules and announcements. I worked on several features like Offline Caching, Dark Mode, Notifications and Google Login among others. You can find the project [here](https://github.com/crux-bphc/CMS-iOS).
+* __CMS iOS App:__ This is the iOS version of the CMS BPHC App. It uses the Moodle API Endpoints to get data and the Realm database for offline caching of course modules and discussions. I worked on several features like Notifications, Google Login, Offline Caching and Dark Mode. You can find the project [here](https://github.com/crux-bphc/CMS-iOS).
 
 * You can find several of my other projects on my [GitHub Page](https://github.com/chaubss?tab=repositories).
 
