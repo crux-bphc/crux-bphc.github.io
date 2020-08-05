@@ -15,7 +15,7 @@
     "cookie-parser": "^1.4.3",
     "express": "^4.14.0",
     "mkdirp": "^0.5.1",
-    "mongoose": "^4.6.2",
+    "mongoose": "^5.9.27",
     "morgan": "^1.7.0",
     "parse-filepath": "^1.0.1",
     "prismjs": "^1.5.1",
