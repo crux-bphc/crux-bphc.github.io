@@ -7,7 +7,7 @@ title: About CRUx
 
 - Email : [crux@hyderabad.bits-pilani.ac.in](mailto:crux@hyderabad.bits-pilani.ac.in)
 - Post holders' cell-phone numbers:
-  - Ujjwal Raizada ( President ) [7897745889](tel:7897745889)
-  - Krut Patel ( Secretary ) [8320281468](tel:8320281468)
-  - Kunal Verma ( Secretary ) [7730847399](tel:7730847399)
+  - Harshvardhan Jha ( President ) [9971683937](tel:9971683937)
+  - Divyanshu Agrawal ( Secretary ) [9521738499](tel:9521738499)
+  - Pranav Rajagopalan ( Secretary ) [8861616947](tel:8861616947)
 - Crux facebook page : [https://www.facebook.com/cruxbphc/](https://www.facebook.com/cruxbphc/)
