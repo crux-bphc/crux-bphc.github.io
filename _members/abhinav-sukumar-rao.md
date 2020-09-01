@@ -8,9 +8,9 @@ I am a 2018 undergrad student of BPHC majoring in computer science. My interest 
 Projects
 --------
 
-I have made a basic bootloader which boots like a floppy disk. [Link](github.com/AetherPrior/basic_bootloader)  
+Made a basic bootloader which boots like a floppy disk. [Link](github.com/AetherPrior/basic_bootloader)  
 I am currently working on building a c64 intro.  
-I'm part of SEDS too and working on a flight computer of yet  
+I'm part of SEDS too and working on a flight computer as of yet.  
 Here's a MERN app for Timetable making - [Link](github.com/crux-bphc/Chronofactorem)  
 
 Skills
