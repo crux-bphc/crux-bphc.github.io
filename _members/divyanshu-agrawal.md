@@ -3,20 +3,21 @@ layout: members
 title: Divyanshu Agrawal
 ---
 
-I'm currently learning various web-technologies, and learning languages and frameworks like JavaScript, Node.JS, React, Express etc. I love to make practical applications based on what I have learnt all the time, although sadly I always keep switching projects :3. Apart from programming, I like to read books, and play PC games.
+I'm currently learning various web-technologies, and learning languages and frameworks like Rust, JavaScript, Node.JS, React, Express etc. I love to make practical applications based on what I have learnt all the time, although sadly I always keep switching projects :3. Apart from programming, I like to read books, and play RTS/Strategy games like Rimworld.
 
 ## Skills
 
-I am skilled in :
+I am familiar with:
 
-- JavaScript and it's derived frameworks and libraries like React, JQuery etc.
-- Node.JS and various modules like Express, Pug.
+- Rust ( I'm still learning it )
+- JavaScript and it's derived frameworks and libraries like React.
+- Node.JS and various libraries like Express, Pug.
 - MySQL, MongoDB.
-- C++, C, PHP, Java.
+- C++ & C.
 
 ## Projects
 
-I have several projects which I maintain at my GitHub account [(@hereisdx)](https://github.com/hereisdx). Some of those are:
+I have several projects which I maintain at my GitHub account [(@agrawal-d)](https://github.com/agrawal-d). Some of those are:
 
 - **Chatapp** : A fast, public, live chat application made in React and Node.JS . Will use WebSockets for communication between clients. ( in development) [Link](https://github.com/hereisdx/chatapp)
 
@@ -32,10 +33,4 @@ I have several projects which I maintain at my GitHub account [(@hereisdx)](http
 
 ## Contact
 
-I would love to hear from you! Please feel free to reach out to me via any of the following means:
-
-- Email : [agrawal.divyanshu@outlook.com](mailto:agrawal.divyanshu@outlook.com)
-- Cellphone : [+91-9521738499](tel:+91-9521738499)
-- Facebook Messenger : [m.me/hereisdx](https://m.me/hereisdx)
-
-I usually go by the handle @hereisdx on most sites such as GitHub, Codeforces, CodeChef, Facebook etc.
+I would love to hear from you! Please feel free to reach out to me via [email](mailto:hereisdx@gmail.com). My GitHub username is `agrawal-d`.
