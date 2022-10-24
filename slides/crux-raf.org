@@ -1,0 +1,75 @@
+#+TITLE:CRUx
+#+SUBTITLE:THE PROGRAMMING CLUB
+#+OPTIONS: num:nil
+#+REVEAL_THEME: solarized
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+REVEAL_TITLE_SLIDE: <h1 class="title">%t</h1><em>%s</em><br><br>%a<br>%d
+#+reveal_title_slide_background: ./crux_logo.svg
+#+reveal_title_slide_background_position: 1% 96%
+#+reveal_title_slide_background_size: 100px
+#+reveal_title_slide_background_opacity: 0.4
+#+reveal_default_slide_background: ./crux_logo.svg
+#+reveal_default_slide_background_position: 1% 96%
+#+reveal_default_slide_background_size: 100px
+#+reveal_default_slide_background_opacity: 0.4
+* About us
+https://www.crux-bphc.com/
+** We cover all things programming
++ Competitive Programming
++ Web Development
++ Systems Programming
++ Machine Learning
++ App Development
+** More importantly...
+We are a community of people who ❤ programming
+* Things we do
+[[./crux_github.png]]
+** Hackathons and Contests
+We organize and participate in various Hackathons and Contests
++ Examples
+  + ATMOS' Competitive Programming contest
+** Workshops
+Some of the workshops we've held-
++ Python Workshop
++ PyBITS - A Conference on Python 
+** Summer Groups
+We hold /Summer Groups/ for
+- Web Development
+- Android Development
+- Flutter
+- Python
+- Game Development
+- Machine Learning
+- Competitive Coding
+** Club Projects
+We work on various projects you can find at https://github.com/crux-bphc
+* Achievements and Work
+** ACM-ICPC
+PalindORMe - 6th Rank at Kanpur Regionals
+** ChronoFactorem
+[[./chronofactorem.png]]
+** DSA Training 2022
+Compiled Resources on Various DSA Topics
+https://github.com/crux-bphc/DSA-Training-2022
+** Fest Manager
+[[./fest-manager.png]]
+** CMS App
+[[./cms-app.png]]
+* How do I join CRUx?
+CRUx holds inductions every year to recruit new members.
+** Crux CC
+A Competitive Programming contest is held to induct new members
+** Crux Dev
+Your projects are graded and candidates are interviewed in a 3-step process
+** Skills Required?
+1. A *love* for programming
+2. Effort
+** Is it too late to start?
+Absolutely Not!
+** I am interested, but I don't know where to start
+No problem! We hold Summer Groups and Workshops year-round to help acquaint people with programming.
+* PORs
+| President   | Dev Secretary     | CC Secretary    |
+|-------------+-------------------+-----------------|
+| Aayushi Sah | Srikant Tangirala | Varun Vaddiraju |
+| 8369116037  | 9821295377        | 9949334384      |
