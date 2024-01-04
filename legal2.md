@@ -22,6 +22,9 @@ This Privacy Policy ("Policy") outlines the privacy practices for [Rideshare BPH
 
 5. **Changes to this Privacy Policy**: We reserve the right to update or modify this Privacy Policy at any time. Any changes to this Policy will be effective immediately upon posting the revised version on the App. We encourage you to review this Policy periodically for any updates. Your continued use of the App after the posting of changes constitutes your acceptance of such changes.
 
-6. **Contact Us**: If you have any questions, concerns, or suggestions regarding this Privacy Policy or our privacy practices, please contact us at [crux@hyderabad.bits-pilani.ac.in](mailto:crux@hyderabad.bits-pilani.ac.in).
+6. **Delete your account**: If you want to delete your account and all the information related to it please contact us at [crux@hyderabad.bits-pilani.ac.in](mailto:crux@hyderabad.bits-pilani.ac.in).
+
+7. **Contact Us**: If you have any questions, concerns, or suggestions regarding this Privacy Policy or our privacy practices, please contact us at [crux@hyderabad.bits-pilani.ac.in](mailto:crux@hyderabad.bits-pilani.ac.in).
+
 
 By using the App, you acknowledge that you have read and understood this Privacy Policy and agree to be bound by its terms and conditions.
